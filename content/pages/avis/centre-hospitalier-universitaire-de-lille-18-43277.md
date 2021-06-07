@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-265906719"> CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE</a><br/>
+<a href="/acheteur-138/siren-265906719"> CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE</a><br/>
 
 Mlle DACQUIN Mathilde
 
@@ -37,4 +37,4 @@ CPV45232430 - **Travaux de traitement de l'eau** <br/>
 Travaux dans l'eau <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-270/siren-808581854"> AMETHYS</a>    Zone industrielle B - 36 rue du Luyot 59113 SECLIN <br/>
+<a href="/entreprise-577/siren-808581854"> AMETHYS</a>    Zone industrielle B - 36 rue du Luyot 59113 SECLIN <br/>

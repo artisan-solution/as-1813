@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200072072"> COMMUNAUTE D'AGGLOMERATION TERRITOIRES VENDOMOIS</a><br/>
+<a href="/acheteur-133/siren-200072072"> COMMUNAUTE D'AGGLOMERATION TERRITOIRES VENDOMOIS</a><br/>
 
 
 
@@ -36,4 +36,4 @@ VENDOME - Département 41 - Loir-et-Cher
 Carburant, hydrocarbure <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-315281113"> SA SIPLEC</a>    26 quai Marcel BoyerBP 80008 94859 Ivry sur Seine <br/>
+<a href="/entreprise-545/siren-315281113"> SA SIPLEC</a>    26 quai Marcel BoyerBP 80008 94859 Ivry sur Seine <br/>

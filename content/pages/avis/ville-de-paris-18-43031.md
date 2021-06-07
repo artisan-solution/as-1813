@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217500016"> VILLE DE PARIS</a><br/>
+<a href="/acheteur-136/siren-217500016"> VILLE DE PARIS</a><br/>
 
 M. Philippe BALA, Chef de la Section Locale d'Architecture des 5ème et 13ème arrondissements
 
@@ -40,4 +40,4 @@ Plomberie (travaux) <br/>
 Revêtements de sols <br/>
 
 ### Attribution du Marché :
-Entreprise JEAN LEFEBVRE IDF - 20 rue Edith Cavell 94400 Vitry-sur-Seine <br/>
+<a href="/entreprise-545/siren-315474536"> Entreprise JEAN LEFEBVRE IDF</a>    20 rue Edith Cavell 94400 Vitry-sur-Seine <br/>

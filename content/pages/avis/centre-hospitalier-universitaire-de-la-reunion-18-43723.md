@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200030013"> CENTRE HOSPITALIER UNIVERSITAIRE DE LA REUNION</a><br/>
+<a href="/acheteur-132/siren-200030013"> CENTRE HOSPITALIER UNIVERSITAIRE DE LA REUNION</a><br/>
 
 
 
@@ -31,9 +31,9 @@ ST PIERRE - Département 974 - Réunion
 31/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV33696500 - **Réactifs de laboratoire** <br/>
-CPV38434520 - **Analyseurs de sang** <br/>
 CPV38434540 - **Matériel biomédical** <br/>
+CPV38434520 - **Analyseurs de sang** <br/>
+CPV33696500 - **Réactifs de laboratoire** <br/>
 
 ##### Descripteurs :
 Laboratoire (matériel) <br/>
@@ -41,4 +41,4 @@ Matériel dentaire <br/>
 Automate <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-602950206"> Abbott</a>    12 Rue De La Couture 94516 Rungis <br/>
+<a href="/entreprise-573/siren-602950206"> Abbott</a>    12 Rue De La Couture 94516 Rungis <br/>

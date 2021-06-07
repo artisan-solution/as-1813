@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-210600698"> COMMUNE DE GRASSE</a><br/>
+<a href="/acheteur-134/siren-210600698"> COMMUNE DE GRASSE</a><br/>
 
 
 
@@ -31,9 +31,9 @@ GRASSE - Département 06 - Alpes-Maritimes
 30/03/2018
 
 ##### Codes CPV concerné(s) :
+CPV18100000 - **Vêtements professionnels, vêtements de travail spéciaux et accessoires** <br/>
 CPV35815100 - **Gilets pare-balles** <br/>
 CPV18832000 - **Chaussures spéciales** <br/>
-CPV18100000 - **Vêtements professionnels, vêtements de travail spéciaux et accessoires** <br/>
 
 ##### Descripteurs :
 Habillement <br/>

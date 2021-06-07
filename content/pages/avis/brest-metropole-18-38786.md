@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-242900314"> BREST METROPOLE</a><br/>
+<a href="/acheteur-137/siren-242900314"> BREST METROPOLE</a><br/>
 
 
 
@@ -31,12 +31,12 @@ BREST - Département 29 - Finistère
 30/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV79710000 - **Services de sécurité** <br/>
 CPV79713000 - **Services de gardiennage** <br/>
+CPV79710000 - **Services de sécurité** <br/>
 
 ##### Descripteurs :
 Gardiennage <br/>
 Evénementiel <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-265/siren-500189105"> ASSIST SECURITE PRIVEE SAS</a>    13 ROUTE DE PLOUVIEN 29860 BOURG BLANC <br/>
+<a href="/entreprise-567/siren-500189105"> ASSIST SECURITE PRIVEE SAS</a>    13 ROUTE DE PLOUVIEN 29860 BOURG BLANC <br/>

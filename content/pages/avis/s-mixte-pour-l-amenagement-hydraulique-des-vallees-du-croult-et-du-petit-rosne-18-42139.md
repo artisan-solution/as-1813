@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200049310"> S.MIXTE POUR L'AMENAGEMENT HYDRAULIQUE DES VALLEES DU CROULT ET DU PETIT ROSNE</a><br/>
+<a href="/acheteur-133/siren-200049310"> S.MIXTE POUR L'AMENAGEMENT HYDRAULIQUE DES VALLEES DU CROULT ET DU PETIT ROSNE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV79100000 - **Services juridiques** <br/>
 Assistance juridique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-438899197"> SARL ASSISTANCE FONCIERE</a>    21e rue de Champrenard 77540 COURPALAY <br/>
+<a href="/entreprise-561/siren-438899197"> SARL ASSISTANCE FONCIERE</a>    21e rue de Champrenard 77540 COURPALAY <br/>

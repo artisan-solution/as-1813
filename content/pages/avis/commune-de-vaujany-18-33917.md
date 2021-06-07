@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-213805278"> COMMUNE DE VAUJANY</a><br/>
+<a href="/acheteur-134/siren-213805278"> COMMUNE DE VAUJANY</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV45234210 - **Systèmes de transport par câble avec cabines** <br/>
 Télécabines, télésièges, téléskis <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-055501902"> POMA SAS</a>    109 rue Aristide Bergès 38340 Voreppe <br/>
+<a href="/entreprise-543/siren-055501902"> POMA SAS</a>    109 rue Aristide Bergès 38340 Voreppe <br/>

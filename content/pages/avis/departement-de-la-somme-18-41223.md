@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-228000014"> DEPARTEMENT DE LA SOMME</a><br/>
+<a href="/acheteur-137/siren-228000014"> DEPARTEMENT DE LA SOMME</a><br/>
 
 Céline LEFRANC
 
@@ -36,6 +36,6 @@ CPV16311000 - **Tondeuses à gazon** <br/>
 Espaces verts <br/>
 
 ### Attribution du Marché :
-Etablissement Deboffe - RN 29 - BO10 80480 Saleux <br/>
 Loxagri Motoculture - 361 rue Stéphane Hessel - ZAC de la Blanche Tâche 80450 Camon <br/>
 GDM Motoculture - 150 rue Edouard Branly 80450 Camon <br/>
+<a href="/entreprise-573/siren-651720518"> Etablissement Deboffe</a>    RN 29 - BO10 80480 Saleux <br/>

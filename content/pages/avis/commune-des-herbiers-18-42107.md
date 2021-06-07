@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-218501096"> COMMUNE DES HERBIERS</a><br/>
+<a href="/acheteur-136/siren-218501096"> COMMUNE DES HERBIERS</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV71221000 - **Services d'architecte pour les bâtiments** <br/>
 Maîtrise d'oeuvre <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-347417164"> Trace architectes</a>    69 rue du Général Leclerc 59510 HEM <br/>
+<a href="/entreprise-550/siren-347417164"> Trace architectes</a>    69 rue du Général Leclerc 59510 HEM <br/>

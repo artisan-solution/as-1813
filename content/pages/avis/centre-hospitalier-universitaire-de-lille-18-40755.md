@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-265906719"> CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE</a><br/>
+<a href="/acheteur-138/siren-265906719"> CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE</a><br/>
 
 
 
@@ -31,13 +31,13 @@ LILLE - Département 59 - Nord
 25/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV33183100 - **Implants orthopédiques** <br/>
 CPV33184100 - **Implants chirurgicaux** <br/>
 CPV33184000 - **Prothèses** <br/>
+CPV33183100 - **Implants orthopédiques** <br/>
 
 ##### Descripteurs :
 Consommables médicaux <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-433924529"> LDR MEDICAL</a>    Parc d'entreprises du grand Troyes, quartier Europe de l'ouest 5 rue de Berlin 10300 Sainte Savine <br/>
-<a href="/entreprise-266/siren-520722646"> SAFE ORTHOPAEDICS</a>    Parc des Bellevues - 3 Allée Rosa Luxembourg 95610 Eragny sur Oise <br/>
+<a href="/entreprise-560/siren-433924529"> LDR MEDICAL</a>    Parc d'entreprises du grand Troyes, quartier Europe de l'ouest 5 rue de Berlin 10300 Sainte Savine <br/>
+<a href="/entreprise-570/siren-520722646"> SAFE ORTHOPAEDICS</a>    Parc des Bellevues - 3 Allée Rosa Luxembourg 95610 Eragny sur Oise <br/>

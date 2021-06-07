@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217101187"> COMMUNE DE CHATENOY-LE-ROYAL</a><br/>
+<a href="/acheteur-135/siren-217101187"> COMMUNE DE CHATENOY-LE-ROYAL</a><br/>
 
 M. Bergeret Vincent, Maire
 
@@ -30,8 +30,8 @@ CHATENOY LE ROYAL - Département 71 - Saône-et-Loire
 27/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV45262660 - **Travaux de désamiantage** <br/>
 CPV45261213 - **Travaux de couverture métallique** <br/>
+CPV45262660 - **Travaux de désamiantage** <br/>
 
 ##### Descripteurs :
 Couverture <br/>

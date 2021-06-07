@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-776056467"> UNION DES GROUPEMENTS D'ACHATS PUBLICS</a><br/>
+<a href="/acheteur-140/siren-776056467"> UNION DES GROUPEMENTS D'ACHATS PUBLICS</a><br/>
 
 
 
@@ -36,4 +36,4 @@ CPV98351100 - **Services de parkings** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-320229644"> INDIGO PARK</a>    4 place de la Pyramide TSA 43214 92919 LA DEFENSE CEDEX <br/>
+<a href="/entreprise-546/siren-320229644"> INDIGO PARK</a>    4 place de la Pyramide TSA 43214 92919 LA DEFENSE CEDEX <br/>

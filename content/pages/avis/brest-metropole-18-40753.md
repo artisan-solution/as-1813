@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-242900314"> BREST METROPOLE</a><br/>
+<a href="/acheteur-137/siren-242900314"> BREST METROPOLE</a><br/>
 
 
 
@@ -40,5 +40,5 @@ Topographie <br/>
 ### Attribution du Marché :
 SARL A , T OUEST - 87 RUE DU GÉNÉRAL LECLERC 29470 PLOUGASTEL-DAOULAS <br/>
 A , T OUEST - 87 RUE DU GÉNÉRAL LECLERC 29470 PLOUGASTEL-DAOULAS <br/>
-<a href="/entreprise-257/siren-384653044"> GEOMAT</a>    6 RUE DE LA MARNE - BP 734 29207 LANDERNEAU CEDEX <br/>
+<a href="/entreprise-552/siren-384653044"> GEOMAT</a>    6 RUE DE LA MARNE - BP 734 29207 LANDERNEAU CEDEX <br/>
 LECLERC GEOMETRE - 1 PLACE SAINT LOUIS - BP 11254 29212 BREST CEDEX 1 <br/>

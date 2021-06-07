@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243100518"> TOULOUSE METROPOLE</a><br/>
+<a href="/acheteur-137/siren-243100518"> TOULOUSE METROPOLE</a><br/>
 
 M. Jean Luc MOUDENC Le président
 
@@ -36,4 +36,4 @@ Toulouse - Département 31 - Haute-Garonne
 Ouvrage hydraulique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-306896374"> ETANDEX</a>    2 ZA de Pasquina 33750 Beychac et caillau <br/>
+<a href="/entreprise-544/siren-306896374"> ETANDEX</a>    2 ZA de Pasquina 33750 Beychac et caillau <br/>

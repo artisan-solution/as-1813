@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200067932"> CA GOLFE DU MORBIHAN - VANNES AGGLOMERATION</a><br/>
+<a href="/acheteur-133/siren-200067932"> CA GOLFE DU MORBIHAN - VANNES AGGLOMERATION</a><br/>
 
 
 
@@ -38,4 +38,4 @@ Conteneur, poubelles <br/>
 
 ### Attribution du Marché :
 <a href=""> CONTENUR</a>     69009 LYON <br/>
-<a href="/entreprise-254/siren-321819112"> CITEC ENVIRONNEMENT</a>     71530 CRISSEY <br/>
+<a href="/entreprise-546/siren-321819112"> CITEC ENVIRONNEMENT</a>     71530 CRISSEY <br/>

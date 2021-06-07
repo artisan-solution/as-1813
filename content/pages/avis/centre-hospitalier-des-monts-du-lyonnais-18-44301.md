@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200093904"> CENTRE HOSPITALIER DES MONTS DU LYONNAIS</a><br/>
+<a href="/acheteur-134/siren-200093904"> CENTRE HOSPITALIER DES MONTS DU LYONNAIS</a><br/>
 
 
 
@@ -31,16 +31,16 @@ LYON - Département 69 - Rhône
 31/03/2018
 
 ##### Codes CPV concerné(s) :
+CPV80500000 - **Services de formation** <br/>
 CPV80561000 - **Services de formation dans le domaine de la santé** <br/>
 CPV80511000 - **Services de formation du personnel** <br/>
-CPV80500000 - **Services de formation** <br/>
 
 ##### Descripteurs :
 Formation <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-539256701"> ALARA Expertise</a>    4 rue La Fayette 67100 Strasbourg <br/>
-<a href="/entreprise-257/siren-380245878"> FORMAVENIR PERFORMANCES</a>    12 avenue des Saules 69600 Oullins <br/>
+<a href="/entreprise-572/siren-539256701"> ALARA Expertise</a>    4 rue La Fayette 67100 Strasbourg <br/>
+<a href="/entreprise-551/siren-380245878"> FORMAVENIR PERFORMANCES</a>    12 avenue des Saules 69600 Oullins <br/>
 INSTITUT PAUL BOCUSE ID - 1A chemin du Calabert 69130 Ecully <br/>
 IPSO FORMATIONS / IPSO CAMPUS - 16 rue de Montbrillant 69003 Lyon <br/>
-<a href="/entreprise-262/siren-441059847"> BIOFORMATION</a>    309/311 rue Lecourbe 75015 Paris <br/>
+<a href="/entreprise-561/siren-441059847"> BIOFORMATION</a>    309/311 rue Lecourbe 75015 Paris <br/>

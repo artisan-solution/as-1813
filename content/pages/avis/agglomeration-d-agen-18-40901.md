@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200035459"> AGGLOMERATION D'AGEN</a><br/>
+<a href="/acheteur-133/siren-200035459"> AGGLOMERATION D'AGEN</a><br/>
 
 
 
@@ -39,6 +39,6 @@ Maîtrise d'oeuvre <br/>
 ### Attribution du Marché :
 JOEL BASSI - ZA SAMADET ROUTE DE PAU 64800 BOURDETTES <br/>
 AC2I - 24 bis boulevard Edouard Lacour 47000 AGEN <br/>
-<a href="/entreprise-256/siren-343508834"> INGENIERIE 47</a>    43 rue Camille Desmoulins 47000 AGEN <br/>
+<a href="/entreprise-549/siren-343508834"> INGENIERIE 47</a>    43 rue Camille Desmoulins 47000 AGEN <br/>
 CABINET ZANI - 4,rue Marcel Pagnol 47510 FOULAYRONNES <br/>
-<a href="/entreprise-265/siren-508243912"> BRASSIE ARCHITECTES</a>    3 boulevard Sylvain Dumon 47000 AGEN <br/>
+<a href="/entreprise-568/siren-508243912"> BRASSIE ARCHITECTES</a>    3 boulevard Sylvain Dumon 47000 AGEN <br/>

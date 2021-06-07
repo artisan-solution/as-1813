@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110090016"> MINISTERE DES ARMEES</a><br/>
+<a href="/acheteur-131/siren-110090016"> MINISTERE DES ARMEES</a><br/>
 
 Directeur de l'AIA Clermont-Ferrand
 
@@ -35,4 +35,4 @@ CLERMONT FERRAND - Département 63 - Puy-de-Dôme
 Ventilation <br/>
 
 ### Attribution du Marché :
-ENGIE ENERGIE SERVICES (ENGIE COFELY) (mandataire)AXIMA CONCEPT-ENGIE AXIMA (co-traitant) - Tour Voltaire1 place des Degrès 92800 Puteaux <br/>
+<a href="/entreprise-572/siren-552046955"> ENGIE ENERGIE SERVICES (ENGIE COFELY) (mandataire)AXIMA CONCEPT-ENGIE AXIMA (co-traitant)</a>    Tour Voltaire1 place des Degrès 92800 Puteaux <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200063402"> COMMUNE D'ANNECY</a><br/>
+<a href="/acheteur-133/siren-200063402"> COMMUNE D'ANNECY</a><br/>
 
 Monsieur le Maire
 
@@ -37,4 +37,4 @@ CPV30125100 - **Cartouches de toner** <br/>
 Consommables informatiques <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-393858543"> CALESTOR</a>    14/38 rue Alexandre 92230 GENNEVILLIERS <br/>
+<a href="/entreprise-554/siren-393858543"> CALESTOR</a>    14/38 rue Alexandre 92230 GENNEVILLIERS <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110090016"> MINISTERE DES ARMEES</a><br/>
+<a href="/acheteur-131/siren-110090016"> MINISTERE DES ARMEES</a><br/>
 
 Directeur de l'AIA Clermont-Ferrand
 
@@ -30,12 +30,12 @@ CLERMONT FERRAND - Département 63 - Puy-de-Dôme
 31/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV50410000 - **Services de réparation et d'entretien d'appareils de mesure, d'essai et de contrôle** <br/>
 CPV50433000 - **Services d'étalonnage** <br/>
+CPV50410000 - **Services de réparation et d'entretien d'appareils de mesure, d'essai et de contrôle** <br/>
 
 ##### Descripteurs :
 Maintenance <br/>
 Matériel de précision <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-562047050"> TRESCAL</a>    8 rue de l'Estérel - Parc des Affaires SilicBP 30441 94593 Rungis Cedex <br/>
+<a href="/entreprise-572/siren-562047050"> TRESCAL</a>    8 rue de l'Estérel - Parc des Affaires SilicBP 30441 94593 Rungis Cedex <br/>

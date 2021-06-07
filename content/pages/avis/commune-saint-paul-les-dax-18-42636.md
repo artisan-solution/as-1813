@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-214002792"> COMMUNE SAINT PAUL LES DAX</a><br/>
+<a href="/acheteur-135/siren-214002792"> COMMUNE SAINT PAUL LES DAX</a><br/>
 
 
 
@@ -31,9 +31,9 @@ ST PAUL LES DAX - Département 40 - Landes
 31/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV44114200 - **Produits en béton** <br/>
-CPV44100000 - **Matériaux de construction et articles connexes** <br/>
 CPV44160000 - **Pipelines, tuyauterie, conduites, gainage, tubage et articles connexes** <br/>
+CPV44100000 - **Matériaux de construction et articles connexes** <br/>
+CPV44114200 - **Produits en béton** <br/>
 
 ##### Descripteurs :
 Alimentation en eau potable <br/>
@@ -41,4 +41,4 @@ Assainissement <br/>
 Matériaux de construction <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-751592270"> MTP</a>    208 RUE BERNARD PALISSY - VILLAGE D'ENTREPRISES 40990 SAINT-PAUL-LES-DAX <br/>
+<a href="/entreprise-574/siren-751592270"> MTP</a>    208 RUE BERNARD PALISSY - VILLAGE D'ENTREPRISES 40990 SAINT-PAUL-LES-DAX <br/>

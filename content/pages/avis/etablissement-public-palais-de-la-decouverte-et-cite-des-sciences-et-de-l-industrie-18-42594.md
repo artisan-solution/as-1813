@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-519587851"> ETABLISSEMENT PUBLIC PALAIS DE LA DECOUVERTE ET CITE DES SCIENCES ET DE L'INDUSTRIE</a><br/>
+<a href="/acheteur-139/siren-519587851"> ETABLISSEMENT PUBLIC PALAIS DE LA DECOUVERTE ET CITE DES SCIENCES ET DE L'INDUSTRIE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV32413000 - **Réseau intégré** <br/>
 Informatique (matériel) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-320695356"> Arc Informatique</a>    2 avenue de la cristallerie 92310 Sèvres <br/>
+<a href="/entreprise-546/siren-320695356"> Arc Informatique</a>    2 avenue de la cristallerie 92310 Sèvres <br/>

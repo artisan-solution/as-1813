@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-245900428"> COMMUNAUTE URBAINE DE DUNKERQUE</a><br/>
+<a href="/acheteur-137/siren-245900428"> COMMUNAUTE URBAINE DE DUNKERQUE</a><br/>
 
 
 
@@ -38,4 +38,4 @@ Voirie <br/>
 
 ### Attribution du Marché :
 RAMERY TRAVAUX PUBLICS (mandataire) - 541, rue de l'Albeck 59640 DUNKERQUE <br/>
-<a href="/entreprise-254/siren-310624523"> EUROVIA STR</a>    Rue A. Carrel 59640 DUNKERQUE <br/>
+<a href="/entreprise-545/siren-310624523"> EUROVIA STR</a>    Rue A. Carrel 59640 DUNKERQUE <br/>

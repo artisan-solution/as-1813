@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200067213"> COMMUNAUTE URBAINE DU GRAND REIMS</a><br/>
+<a href="/acheteur-133/siren-200067213"> COMMUNAUTE URBAINE DU GRAND REIMS</a><br/>
 
 
 
@@ -32,8 +32,8 @@ REIMS - Département 51 - Marne
 
 ##### Codes CPV concerné(s) :
 CPV35821000 - **Drapeaux** <br/>
-CPV39156000 - **Mobilier d'accueil et de réception** <br/>
 CPV34928300 - **Barrières de sécurité** <br/>
+CPV39156000 - **Mobilier d'accueil et de réception** <br/>
 
 ##### Descripteurs :
 Clôture <br/>
@@ -42,4 +42,4 @@ Prestations de services <br/>
 
 ### Attribution du Marché :
 TIM S.A. - 7 AVENUE BENOIT FRACHON ACTIPOLE NEUVILETTE 51100 Reims <br/>
-<a href="/entreprise-257/siren-383446721"> EQUIP CITE SAS</a>    30 RUE DU CHATEAU D'EAU 78360 MONTESSON <br/>
+<a href="/entreprise-552/siren-383446721"> EQUIP CITE SAS</a>    30 RUE DU CHATEAU D'EAU 78360 MONTESSON <br/>

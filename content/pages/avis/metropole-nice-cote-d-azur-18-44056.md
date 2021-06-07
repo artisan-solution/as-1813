@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200030195"> METROPOLE NICE COTE D AZUR</a><br/>
+<a href="/acheteur-132/siren-200030195"> METROPOLE NICE COTE D AZUR</a><br/>
 
 Monsieur Le Président de la Métropole Nice Côte d'Azur
 
@@ -37,7 +37,7 @@ Formation <br/>
 
 ### Attribution du Marché :
 HANDY JOB 06 - Cap Var Bât C1 - BP 30 193 06704 SAINT LAURENT DU VAR <br/>
-<a href="/entreprise-254/siren-310914569"> PEP 06</a>    35 Boulevard de la Madeleine 06000 NICE <br/>
-<a href="/entreprise-257/siren-382326940"> ISATIS</a>    6 Avenue Barbuse 06100 NICE <br/>
+<a href="/entreprise-545/siren-310914569"> PEP 06</a>    35 Boulevard de la Madeleine 06000 NICE <br/>
+<a href="/entreprise-552/siren-382326940"> ISATIS</a>    6 Avenue Barbuse 06100 NICE <br/>
 TRISOMIE 21 - 26 Boulevard de Risso 06300 NICE <br/>
-<a href="/entreprise-260/siren-414003236"> URAPEDA PACA CORSE</a>    375 Rue Mayor de Montricher 13854 AIX EN PROVENCE <br/>
+<a href="/entreprise-557/siren-414003236"> URAPEDA PACA CORSE</a>    375 Rue Mayor de Montricher 13854 AIX EN PROVENCE <br/>

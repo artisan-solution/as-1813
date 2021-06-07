@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-227400017"> DEPARTEMENT DE LA HAUTE SAVOIE</a><br/>
+<a href="/acheteur-137/siren-227400017"> DEPARTEMENT DE LA HAUTE SAVOIE</a><br/>
 
 le Président
 
@@ -37,4 +37,4 @@ CPV85100000 - **Services de santé** <br/>
 Analyses médicales, biologiques <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-390319192"> SAVOIE LABO</a>    23 allée du lac d'Aiguebelette 73374 LE BOURGET DU LAC <br/>
+<a href="/entreprise-553/siren-390319192"> SAVOIE LABO</a>    23 allée du lac d'Aiguebelette 73374 LE BOURGET DU LAC <br/>

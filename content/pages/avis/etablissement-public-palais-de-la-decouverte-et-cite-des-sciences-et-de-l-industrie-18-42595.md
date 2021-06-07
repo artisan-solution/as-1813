@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-519587851"> ETABLISSEMENT PUBLIC PALAIS DE LA DECOUVERTE ET CITE DES SCIENCES ET DE L'INDUSTRIE</a><br/>
+<a href="/acheteur-139/siren-519587851"> ETABLISSEMENT PUBLIC PALAIS DE LA DECOUVERTE ET CITE DES SCIENCES ET DE L'INDUSTRIE</a><br/>
 
 
 
@@ -32,15 +32,15 @@ Paris - Département 75 - Paris
 
 ##### Codes CPV concerné(s) :
 CPV30236000 - **Matériel informatique divers** <br/>
-CPV30237000 - **Pièces, accessoires et fournitures pour ordinateurs** <br/>
 CPV30200000 - **Matériel et fournitures informatiques** <br/>
+CPV30237000 - **Pièces, accessoires et fournitures pour ordinateurs** <br/>
 
 ##### Descripteurs :
 Informatique (matériel) <br/>
 
 ### Attribution du Marché :
 Afc - 32 Rue Planchat 75020 Paris <br/>
-<a href="/entreprise-265/siren-503248767"> inovio</a>    86 Rue Voltaire 93100 Montreuil <br/>
-<a href="/entreprise-261/siren-429784168"> Bechtle direct</a>    30 rue des Vergers 67120 Molsheim <br/>
-<a href="/entreprise-255/siren-331566430"> Econocom Products Et Solutions</a>    1 rue de terre neuve Bp 62 Les Ulis 91940 Les Ulis <br/>
-<a href="/entreprise-257/siren-383163201"> stimplus</a>    166 Av. Georges Clemenceau 92000 Nanterre <br/>
+<a href="/entreprise-568/siren-503248767"> inovio</a>    86 Rue Voltaire 93100 Montreuil <br/>
+<a href="/entreprise-559/siren-429784168"> Bechtle direct</a>    30 rue des Vergers 67120 Molsheim <br/>
+<a href="/entreprise-547/siren-331566430"> Econocom Products Et Solutions</a>    1 rue de terre neuve Bp 62 Les Ulis 91940 Les Ulis <br/>
+<a href="/entreprise-552/siren-383163201"> stimplus</a>    166 Av. Georges Clemenceau 92000 Nanterre <br/>

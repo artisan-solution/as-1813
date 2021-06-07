@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217500016"> VILLE DE PARIS</a><br/>
+<a href="/acheteur-136/siren-217500016"> VILLE DE PARIS</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV34928480 - **Conteneurs et poubelles de déchets** <br/>
 Mobilier urbain <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-265/siren-509101192"> Actor France</a>    178b avenue des Nations 57970 Yutz <br/>
+<a href="/entreprise-569/siren-509101192"> Actor France</a>    178b avenue des Nations 57970 Yutz <br/>

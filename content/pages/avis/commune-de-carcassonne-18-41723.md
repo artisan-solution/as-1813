@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211100698"> COMMUNE DE CARCASSONNE</a><br/>
+<a href="/acheteur-134/siren-211100698"> COMMUNE DE CARCASSONNE</a><br/>
 
 M. LARRAT Gérard, Maire
 
@@ -37,5 +37,5 @@ CPV24300000 - **Produits chimiques organiques et inorganiques de base** <br/>
 Produits chimiques <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-271/siren-827858986"> BHS</a>    Les carneaux - 1 rue du gué malaye 95470 Vemars <br/>
+<a href="/entreprise-580/siren-827858986"> BHS</a>    Les carneaux - 1 rue du gué malaye 95470 Vemars <br/>
 PCEB 11000 CARCASSONNE - Zi la bouriette rue ampère 11000 Carcassonne <br/>

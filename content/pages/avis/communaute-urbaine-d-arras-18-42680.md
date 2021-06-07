@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200033579"> COMMUNAUTE URBAINE D'ARRAS</a><br/>
+<a href="/acheteur-132/siren-200033579"> COMMUNAUTE URBAINE D'ARRAS</a><br/>
 
 
 
@@ -38,4 +38,4 @@ Prestations de services <br/>
 Aire d'accueil <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-493414973"> SAS VAGO</a>    40 impasse des deux crastes 33260 La teste de buch <br/>
+<a href="/entreprise-566/siren-493414973"> SAS VAGO</a>    40 impasse des deux crastes 33260 La teste de buch <br/>

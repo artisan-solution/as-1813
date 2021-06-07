@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-815158712"> INSTITUT NATIONAL DE FORMATION</a><br/>
+<a href="/acheteur-140/siren-815158712"> INSTITUT NATIONAL DE FORMATION</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV80530000 - **Services de formation professionnelle** <br/>
 Formation <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-722030277"> Demos</a>    20, rue de l'Arcade 75008 Paris <br/>
+<a href="/entreprise-573/siren-722030277"> Demos</a>    20, rue de l'Arcade 75008 Paris <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243100518"> TOULOUSE METROPOLE</a><br/>
+<a href="/acheteur-137/siren-243100518"> TOULOUSE METROPOLE</a><br/>
 
 
 
@@ -44,16 +44,16 @@ Livres <br/>
 
 ### Attribution du Marché :
 LE CROQUENOTES - EURL AUBRIET - 4 rue Jean Suau 31000 Toulouse <br/>
-<a href="/entreprise-257/siren-387757180"> RENOV'LIVRES</a>    329 rue Pasteur 54715 Ludres <br/>
-<a href="/entreprise-266/siren-530633965"> NOUVELLE TIRE-LIRE</a>    24 rue de la Bourse 31000 Toulouse <br/>
+<a href="/entreprise-553/siren-387757180"> RENOV'LIVRES</a>    329 rue Pasteur 54715 Ludres <br/>
+<a href="/entreprise-571/siren-530633965"> NOUVELLE TIRE-LIRE</a>    24 rue de la Bourse 31000 Toulouse <br/>
 NOUVELLE LIBRAIRIE DE LA RENAISSANCE - SNLR - 1 allée de Marc Saint-Saëns 31036 Toulouse cedex 1 <br/>
 LIBRAIRIE BEDECINE - 7 rue Romiguières 31000 Toulouse <br/>
 LIBRAIRIE LA PREFACE - 35/37 allées du Rouergue 31170 Colomiers <br/>
 LIBRAIRIE FLOURY FRERES - 36 rue de la Colombette 31000 Toulouse <br/>
-<a href="/entreprise-253/siren-304306947"> LIBRAIRIE OMBRES BLANCHES</a>    50 rue Gambetta 31000 Toulouse <br/>
-<a href="/entreprise-268/siren-753458744"> LIBRAIRIE SERIE B</a>    16 rue Sainte-Ursule 31000 Toulouse <br/>
+<a href="/entreprise-544/siren-304306947"> LIBRAIRIE OMBRES BLANCHES</a>    50 rue Gambetta 31000 Toulouse <br/>
+<a href="/entreprise-574/siren-753458744"> LIBRAIRIE SERIE B</a>    16 rue Sainte-Ursule 31000 Toulouse <br/>
 NOUVELLE LIBRAIRIE TOULOUSAINE - LIBRAIRIE PRIVAT - 14 rue des Arts 31000 Toulouse <br/>
-<a href="/entreprise-254/siren-317526309"> RDM VIDEO</a>    125/127 Bd Gambetta 95110 Sannois <br/>
-<a href="/entreprise-256/siren-348646449"> GAM</a>    3 avenue de la Mandallaz 74008 Annecy cedex <br/>
+<a href="/entreprise-545/siren-317526309"> RDM VIDEO</a>    125/127 Bd Gambetta 95110 Sannois <br/>
+<a href="/entreprise-550/siren-348646449"> GAM</a>    3 avenue de la Mandallaz 74008 Annecy cedex <br/>
 SARL ARMADILLO - 32 rue Pharaon 31000 Toulouse <br/>
 LIBRAIRIE ETUDES MIRAIL - 5 allées Antonio Machado 31058 Toulouse cedex 9 <br/>

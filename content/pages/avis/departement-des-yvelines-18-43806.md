@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-227806460"> DEPARTEMENT DES YVELINES</a><br/>
+<a href="/acheteur-137/siren-227806460"> DEPARTEMENT DES YVELINES</a><br/>
 
 
 
@@ -31,10 +31,10 @@ VERSAILLES - Département 78 - Yvelines
 31/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV71300000 - **Services d'ingénierie** <br/>
-CPV71335000 - **Études techniques** <br/>
 CPV71520000 - **Services de conduite des travaux** <br/>
+CPV71300000 - **Services d'ingénierie** <br/>
 CPV71322000 - **Services de conception technique pour la construction d'ouvrages de génie civil** <br/>
+CPV71335000 - **Études techniques** <br/>
 
 ##### Descripteurs :
 Maîtrise d'oeuvre <br/>

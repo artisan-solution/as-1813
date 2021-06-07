@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243100518"> TOULOUSE METROPOLE</a><br/>
+<a href="/acheteur-137/siren-243100518"> TOULOUSE METROPOLE</a><br/>
 
 
 
@@ -31,13 +31,13 @@ TOULOUSE - Département 31 - Haute-Garonne
 25/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV45111291 - **Travaux d'aménagement du terrain** <br/>
-CPV70122100 - **Services de vente de terrains** <br/>
 CPV45210000 - **Travaux de construction de bâtiments** <br/>
+CPV70122100 - **Services de vente de terrains** <br/>
+CPV45111291 - **Travaux d'aménagement du terrain** <br/>
 
 ##### Descripteurs :
 Abris <br/>
 
 ### Attribution du Marché :
-Crédit Agricole Immobilier Promotion - 12 Place des Etats-Unis 92545 Montrouge <br/>
-<a href="/entreprise-270/siren-810847905"> Altaréa Cogédim Régions</a>    8 avenue Delcassé 75008 Paris <br/>
+<a href="/entreprise-554/siren-397942004"> Crédit Agricole Immobilier Promotion</a>    12 Place des Etats-Unis 92545 Montrouge <br/>
+<a href="/entreprise-578/siren-810847905"> Altaréa Cogédim Régions</a>    8 avenue Delcassé 75008 Paris <br/>

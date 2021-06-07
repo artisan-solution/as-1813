@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-256204165"> SYNDICAT MIXTE DES TRANSPORTS ARTOIS-GOHELLE</a><br/>
+<a href="/acheteur-138/siren-256204165"> SYNDICAT MIXTE DES TRANSPORTS ARTOIS-GOHELLE</a><br/>
 
 
 
@@ -39,5 +39,5 @@ Contrôle technique <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-270/siren-807839949"> COBAT COPREV</a>    Parc tertiaire du Rotois Bat B route de oignies 62710 COURRIERES <br/>
-<a href="/entreprise-261/siren-433250834"> DEKRA INDUSTRIAL SAS</a>    ZA du 14 juillet rue pierre et marie Curie 62223 SAINT LAURENT BLANGY <br/>
+<a href="/entreprise-577/siren-807839949"> COBAT COPREV</a>    Parc tertiaire du Rotois Bat B route de oignies 62710 COURRIERES <br/>
+<a href="/entreprise-560/siren-433250834"> DEKRA INDUSTRIAL SAS</a>    ZA du 14 juillet rue pierre et marie Curie 62223 SAINT LAURENT BLANGY <br/>

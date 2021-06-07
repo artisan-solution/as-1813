@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-228500013"> DEPARTEMENT DE VENDEE</a><br/>
+<a href="/acheteur-137/siren-228500013"> DEPARTEMENT DE VENDEE</a><br/>
 
 le Président du Conseil départemental
 
@@ -37,5 +37,5 @@ CPV80411000 - **Services des auto-écoles** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-382217420"> CENTR'EUROPE DE FORMATION ROUTIERE</a>    9 Rue du Docteur Chevallereau 85200 Fontenay-le-Comte <br/>
-<a href="/entreprise-256/siren-344006556"> ANPER</a>    50 rue rouget de Lisle 92150 Suresnes <br/>
+<a href="/entreprise-552/siren-382217420"> CENTR'EUROPE DE FORMATION ROUTIERE</a>    9 Rue du Docteur Chevallereau 85200 Fontenay-le-Comte <br/>
+<a href="/entreprise-549/siren-344006556"> ANPER</a>    50 rue rouget de Lisle 92150 Suresnes <br/>

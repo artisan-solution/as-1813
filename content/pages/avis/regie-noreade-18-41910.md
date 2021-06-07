@@ -31,14 +31,14 @@ WASQUEHAL - Département 59 - Nord
 28/03/2018
 
 ##### Codes CPV concerné(s) :
+CPV45232420 - **Travaux de construction de stations d'épuration des eaux usées** <br/>
 CPV45200000 - **Travaux de construction complète ou partielle et travaux de génie civil** <br/>
 CPV45252130 - **Équipement de station d'épuration** <br/>
-CPV45232420 - **Travaux de construction de stations d'épuration des eaux usées** <br/>
 
 ##### Descripteurs :
 Station d'épuration (travaux) <br/>
 
 ### Attribution du Marché :
 Société LIONEL VENTURINI - 30 rue Lamouroux 47000 Agen <br/>
-Entreprise WANGNER ASSAINISSEMENT - ZA de Gomberville 2 rue Pablo Picasso 78114 Magny les hameaux <br/>
+<a href="/entreprise-545/siren-317287456"> Entreprise WANGNER ASSAINISSEMENT</a>    ZA de Gomberville 2 rue Pablo Picasso 78114 Magny les hameaux <br/>
 Entreprise SYSTEM WOLF Agence Grand Ouest - BP 725 rue de Panthièvre Parc d'Activités de Nazareth 22130 Plancoet <br/>

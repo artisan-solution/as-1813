@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-228500013"> DEPARTEMENT DE VENDEE</a><br/>
+<a href="/acheteur-137/siren-228500013"> DEPARTEMENT DE VENDEE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV38434560 - **Analyseur de chimie** <br/>
 Laboratoire (matériel) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-433819455"> sciex</a>    15 avenue de norvege 91140 Villebon-sur-Yvette <br/>
+<a href="/entreprise-560/siren-433819455"> sciex</a>    15 avenue de norvege 91140 Villebon-sur-Yvette <br/>

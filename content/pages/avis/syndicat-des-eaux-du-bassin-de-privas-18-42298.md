@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-250701042"> SYNDICAT DES EAUX DU BASSIN DE PRIVAS</a><br/>
+<a href="/acheteur-137/siren-250701042"> SYNDICAT DES EAUX DU BASSIN DE PRIVAS</a><br/>
 
 M. Rouvier Hervé
 

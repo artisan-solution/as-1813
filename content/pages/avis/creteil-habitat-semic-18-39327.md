@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-672003118"> CRETEIL HABITAT SEMIC</a><br/>
+<a href="/acheteur-139/siren-672003118"> CRETEIL HABITAT SEMIC</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV71221000 - **Services d'architecte pour les bâtiments** <br/>
 Maîtrise d'oeuvre <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-255/siren-328581822"> SERMET</a>    1, rue Séjourné 94000 Créteil <br/>
+<a href="/entreprise-547/siren-328581822"> SERMET</a>    1, rue Séjourné 94000 Créteil <br/>

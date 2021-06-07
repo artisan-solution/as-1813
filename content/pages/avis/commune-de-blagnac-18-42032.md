@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-213100696"> COMMUNE DE BLAGNAC</a><br/>
+<a href="/acheteur-134/siren-213100696"> COMMUNE DE BLAGNAC</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV30192000 - **Fournitures de bureau** <br/>
 Articles de bureau et articles scolaires <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-272/siren-955510029"> Fiducial Bureautique</a>    2 Impasse Couzinet, Parc de la Plaine, Cs 65206 31079 Toulouse Cedex 5 <br/>
+<a href="/entreprise-582/siren-955510029"> Fiducial Bureautique</a>    2 Impasse Couzinet, Parc de la Plaine, Cs 65206 31079 Toulouse Cedex 5 <br/>

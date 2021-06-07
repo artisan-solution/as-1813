@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-197534720"> ECOLE NATIONALE SUPERIEURE D'ARTS ET METIERS (ENSAM)</a><br/>
+<a href="/acheteur-132/siren-197534720"> ECOLE NATIONALE SUPERIEURE D'ARTS ET METIERS (ENSAM)</a><br/>
 
 Mme GOZET Coralie, Ecole Nationale Supérieure d'Arts et Métiers
 
@@ -36,4 +36,4 @@ CPV80590000 - **Services d'aide pédagogique** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-Cap Sciences - Hanger 20 - Quai de Bacalan 33000 Bordeaux <br/>
+<a href="/entreprise-555/siren-399884253"> Cap Sciences</a>    Hanger 20 - Quai de Bacalan 33000 Bordeaux <br/>

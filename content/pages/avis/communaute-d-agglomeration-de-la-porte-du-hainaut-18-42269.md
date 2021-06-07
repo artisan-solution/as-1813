@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200042190"> COMMUNAUTE D'AGGLOMERATION DE LA PORTE DU HAINAUT</a><br/>
+<a href="/acheteur-133/siren-200042190"> COMMUNAUTE D'AGGLOMERATION DE LA PORTE DU HAINAUT</a><br/>
 
 
 
@@ -36,5 +36,5 @@ CPV71311300 - **Services de conseil en matière d'infrastructure** <br/>
 Maîtrise d'oeuvre <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-444523526"> ARTELIA VILLE ET TRANSPORT</a>      Marquette-Lez-Lille <br/>
-<a href="/entreprise-260/siren-414982959"> AEI</a>    4 rue Jean-Baptiste Clément 93310 Le Pré Saint Gervais <br/>
+<a href="/entreprise-562/siren-444523526"> ARTELIA VILLE ET TRANSPORT</a>      Marquette-Lez-Lille <br/>
+<a href="/entreprise-557/siren-414982959"> AEI</a>    4 rue Jean-Baptiste Clément 93310 Le Pré Saint Gervais <br/>

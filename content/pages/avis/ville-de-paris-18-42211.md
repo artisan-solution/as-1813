@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217500016"> VILLE DE PARIS</a><br/>
+<a href="/acheteur-136/siren-217500016"> VILLE DE PARIS</a><br/>
 
 M. Philippe BALA, Chef de la Section Locale d'Architecture des 5ème et 13ème arrondissements
 
@@ -39,4 +39,4 @@ Serrurerie <br/>
 Terrassement <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-490014396"> S3M</a>    143 boulevard Gabriel Péri 92240 Malakoff <br/>
+<a href="/entreprise-566/siren-490014396"> S3M</a>    143 boulevard Gabriel Péri 92240 Malakoff <br/>

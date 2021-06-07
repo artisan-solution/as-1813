@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-428822852"> ETABLISSEMENT FRANCAIS DU SANG</a><br/>
+<a href="/acheteur-139/siren-428822852"> ETABLISSEMENT FRANCAIS DU SANG</a><br/>
 
 
 
@@ -37,8 +37,8 @@ CPV71240000 - **Services d'architecture, d'ingénierie et de planification** <br
 Prestations de services <br/>
 
 ### Attribution du Marché :
-ER2I Ingénierie - PT de Prè Millet 565 rue aristide Bergès 38330 38330 Montonnot Saint Martin <br/>
-<a href="/entreprise-269/siren-804660884"> ORFEA</a>    25, rue Saint Simon 69009 Lyon <br/>
+<a href="/entreprise-577/siren-804660884"> ORFEA</a>    25, rue Saint Simon 69009 Lyon <br/>
+<a href="/entreprise-563/siren-450229794"> ER2I Ingénierie</a>    PT de Prè Millet 565 rue aristide Bergès 38330 38330 Montonnot Saint Martin <br/>
 CBXS Architectes (mandataire) - 25, rue Saint Simon 69009 LYON <br/>
 NERCO Ingénierie - Equalis Bât.B, 129, chemin Moulin Carron BP 168 69132 Ecully cedex <br/>
 ACE BTP - ZI rue Lavoisier 52800 NOGENT <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-824842272"> SIGEIF MOBILITES</a><br/>
+<a href="/acheteur-140/siren-824842272"> SIGEIF MOBILITES</a><br/>
 
 
 
@@ -31,14 +31,14 @@ PARIS - Département 75 - Paris
 28/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV71000000 - **Services d'architecture, services de construction, services d'ingénierie et services d'inspection** <br/>
+CPV50531300 - **Services de réparation et d'entretien de compresseurs** <br/>
 CPV45231223 - **Ouvrages annexes pour la distribution de gaz** <br/>
 CPV45223720 - **Travaux de construction de stations-services** <br/>
-CPV50531300 - **Services de réparation et d'entretien de compresseurs** <br/>
+CPV71000000 - **Services d'architecture, services de construction, services d'ingénierie et services d'inspection** <br/>
 
 ##### Descripteurs :
 Prestations de services <br/>
 Electricité, gaz (fourniture) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-531680445"> TOTAL MARKETING FRANCE</a>    562 avenue du Parc de l'Ile 92000 NANTERRE <br/>
+<a href="/entreprise-571/siren-531680445"> TOTAL MARKETING FRANCE</a>    562 avenue du Parc de l'Ile 92000 NANTERRE <br/>

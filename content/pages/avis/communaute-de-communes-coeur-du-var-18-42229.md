@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-248300550"> COMMUNAUTE DE COMMUNES COEUR DU VAR</a><br/>
+<a href="/acheteur-137/siren-248300550"> COMMUNAUTE DE COMMUNES COEUR DU VAR</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV60130000 - **Services spécialisés de transport routier de passagers** <br/>
 Transport <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-636680175"> SNT SUMA</a>    RD 113 13340 ROGNAC <br/>
+<a href="/entreprise-573/siren-636680175"> SNT SUMA</a>    RD 113 13340 ROGNAC <br/>

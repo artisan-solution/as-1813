@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215104217"> COMMUNE DE REIMS</a><br/>
+<a href="/acheteur-135/siren-215104217"> COMMUNE DE REIMS</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV44115200 - **Matériel de plomberie et de chauffage** <br/>
 Matériel robinetterie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-572141885"> DISTRIBUTION SANITAIRE CHAUFFAGE</a>    51 RUE DE LA GOULETTE 51100 REIMS <br/>
+<a href="/entreprise-572/siren-572141885"> DISTRIBUTION SANITAIRE CHAUFFAGE</a>    51 RUE DE LA GOULETTE 51100 REIMS <br/>

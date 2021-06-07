@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-228300018"> DEPARTEMENT DU VAR</a><br/>
+<a href="/acheteur-137/siren-228300018"> DEPARTEMENT DU VAR</a><br/>
 
 
 
@@ -31,11 +31,11 @@ TOULON - Département 83 - Var
 31/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV16800000 - **Pièces pour machines agricoles et sylvicoles** <br/>
 CPV16600000 - **Machines spécialisées à usage agricole ou sylvicole** <br/>
+CPV16800000 - **Pièces pour machines agricoles et sylvicoles** <br/>
 
 ##### Descripteurs :
 Pièces détachées <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-402294888"> Mistre Motoculture</a>    Rn 7 Route De Nice 83170 Brignoles <br/>
+<a href="/entreprise-555/siren-402294888"> Mistre Motoculture</a>    Rn 7 Route De Nice 83170 Brignoles <br/>

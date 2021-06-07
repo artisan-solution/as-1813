@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219300464"> COMMUNE DE LIVRY GARGAN</a><br/>
+<a href="/acheteur-136/siren-219300464"> COMMUNE DE LIVRY GARGAN</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV30192000 - **Fournitures de bureau** <br/>
 Articles de bureau et articles scolaires <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-383465259"> ALDA MAJUSCULE</a>    rue Diderot ZAC la Garenne 93110 Rosny-sous-Bois <br/>
+<a href="/entreprise-552/siren-383465259"> ALDA MAJUSCULE</a>    rue Diderot ZAC la Garenne 93110 Rosny-sous-Bois <br/>

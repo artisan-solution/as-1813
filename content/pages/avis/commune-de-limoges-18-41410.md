@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-218708501"> COMMUNE DE LIMOGES</a><br/>
+<a href="/acheteur-136/siren-218708501"> COMMUNE DE LIMOGES</a><br/>
 
 Nathalie Périssat
 
@@ -37,4 +37,4 @@ CPV45111100 - **Travaux de démolition** <br/>
 Démolition <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-324145184"> GAVANIER</a>    ZA de l'Occitania 87250 Bessines Sur Gartempe <br/>
+<a href="/entreprise-546/siren-324145184"> GAVANIER</a>    ZA de l'Occitania 87250 Bessines Sur Gartempe <br/>

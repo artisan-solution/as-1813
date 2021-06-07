@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-227400017"> DEPARTEMENT DE LA HAUTE SAVOIE</a><br/>
+<a href="/acheteur-137/siren-227400017"> DEPARTEMENT DE LA HAUTE SAVOIE</a><br/>
 
 
 
@@ -31,14 +31,14 @@ ANNECY - Département 74 - Haute-Savoie
 25/03/2018
 
 ##### Codes CPV concerné(s) :
+CPV31711000 - **Fournitures électroniques** <br/>
+CPV38300000 - **Instruments de mesure** <br/>
+CPV38437000 - **Pipettes de laboratoire et accessoires** <br/>
 CPV33910000 - **Instruments et fournitures pour dissection** <br/>
 CPV33793000 - **Verrerie de laboratoire** <br/>
-CPV38300000 - **Instruments de mesure** <br/>
-CPV31711000 - **Fournitures électroniques** <br/>
-CPV38437000 - **Pipettes de laboratoire et accessoires** <br/>
 
 ##### Descripteurs :
 Laboratoire (fourniture) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-344652490"> Jeulin</a>    468 rue Jacques Monod Zi N 1 Nétreville Bp 1900 27000 Evreux <br/>
+<a href="/entreprise-549/siren-344652490"> Jeulin</a>    468 rue Jacques Monod Zi N 1 Nétreville Bp 1900 27000 Evreux <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-225400019"> DEPARTEMENT DE MEURTHE ET MOSELLE</a><br/>
+<a href="/acheteur-137/siren-225400019"> DEPARTEMENT DE MEURTHE ET MOSELLE</a><br/>
 
 
 
@@ -38,6 +38,6 @@ Gardiennage <br/>
 Télésurveillance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-262/siren-450122163"> PEGASE SECURITE</a>     54840 VELAINE EN HAYE <br/>
+<a href="/entreprise-563/siren-450122163"> PEGASE SECURITE</a>     54840 VELAINE EN HAYE <br/>
 AFONE SECURITE -  54320 MAXEVILLE <br/>
-<a href="/entreprise-264/siren-488631961"> AMC PROTECTION</a>     54110 VARANGEVILLE <br/>
+<a href="/entreprise-565/siren-488631961"> AMC PROTECTION</a>     54110 VARANGEVILLE <br/>

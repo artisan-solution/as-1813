@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200065597"> CU CAEN LA MER</a><br/>
+<a href="/acheteur-133/siren-200065597"> CU CAEN LA MER</a><br/>
 
 Service passation des contrats
 
@@ -37,4 +37,4 @@ CPV45232410 - **Travaux d'assainissement** <br/>
 Assainissement <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-562077503"> SADE CGTH</a>    ZI le Martray - Avenue de l'industrie 14730 GIBERVILLE <br/>
+<a href="/entreprise-572/siren-562077503"> SADE CGTH</a>    ZI le Martray - Avenue de l'industrie 14730 GIBERVILLE <br/>

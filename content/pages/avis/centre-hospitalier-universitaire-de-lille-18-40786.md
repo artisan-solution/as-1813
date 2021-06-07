@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-265906719"> CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE</a><br/>
+<a href="/acheteur-138/siren-265906719"> CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE</a><br/>
 
 
 
@@ -32,15 +32,15 @@ LILLE - Département 59 - Nord
 
 ##### Codes CPV concerné(s) :
 CPV39560000 - **Articles textiles divers** <br/>
-CPV18100000 - **Vêtements professionnels, vêtements de travail spéciaux et accessoires** <br/>
 CPV19200000 - **Textiles et articles connexes** <br/>
+CPV18100000 - **Vêtements professionnels, vêtements de travail spéciaux et accessoires** <br/>
 
 ##### Descripteurs :
 Textile <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-351592233"> Alm halbout</a>    52 rue des costelles 88460 Docelles <br/>
+<a href="/entreprise-550/siren-351592233"> Alm halbout</a>    52 rue des costelles 88460 Docelles <br/>
 Fiprotec groupe rg - 74 rue du docteur lemoine 51100 Reims <br/>
-<a href="/entreprise-253/siren-308054410"> Groupe mulliez flory</a>    Route de saint aubin 49710 Le longeron <br/>
-<a href="/entreprise-259/siren-408537249"> Medline international france</a>    Parc d'affaires le val st quentin - 2 rue rené caudron 78960 Voisins le bretonneux <br/>
+<a href="/entreprise-544/siren-308054410"> Groupe mulliez flory</a>    Route de saint aubin 49710 Le longeron <br/>
+<a href="/entreprise-556/siren-408537249"> Medline international france</a>    Parc d'affaires le val st quentin - 2 rue rené caudron 78960 Voisins le bretonneux <br/>
 Société dupont beaudeux - 57 rue de carvin bp 19 59112 Annoeullin <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-264500091"> CENTRE HOSPITALIER REGIONAL D'ORLEANS</a><br/>
+<a href="/acheteur-138/siren-264500091"> CENTRE HOSPITALIER REGIONAL D'ORLEANS</a><br/>
 
 
 
@@ -30,8 +30,8 @@ ORLEANS - Département 45 - Loiret
 30/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV18800000 - **Articles chaussants** <br/>
 CPV39500000 - **Articles textiles** <br/>
+CPV18800000 - **Articles chaussants** <br/>
 CPV18100000 - **Vêtements professionnels, vêtements de travail spéciaux et accessoires** <br/>
 CPV18200000 - **Vêtements d'extérieur** <br/>
 
@@ -40,11 +40,11 @@ Habillement <br/>
 Textile <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-393892302"> REGAIN SAS</a>    Le Causse1, rue Pierre Gilles de Gennes 81290 LABRUGUIERE <br/>
-<a href="/entreprise-258/siren-397972530"> FLANDRES TEXTILES</a>    9 bis, rue Edmond de Coussemacker 59270 BAILLEUL <br/>
+<a href="/entreprise-554/siren-393892302"> REGAIN SAS</a>    Le Causse1, rue Pierre Gilles de Gennes 81290 LABRUGUIERE <br/>
+<a href="/entreprise-554/siren-397972530"> FLANDRES TEXTILES</a>    9 bis, rue Edmond de Coussemacker 59270 BAILLEUL <br/>
 TISSUS GISELE SA - TGL - ZI des Ecorces8, Chemin des Ecorces 88250 LA BRESSE <br/>
 SERVET DUCHEMIN AGENCE SOFI - 11, rue de la Mouchetière 45142 SAINT JEAN DE LA RUELLE <br/>
 JORLIN SAS - 21, rue Lavoisier 45140 INGRE <br/>
-<a href="/entreprise-256/siren-351592233"> ALM HALBOUT</a>    52, rue des Costelles 88460 DOCELLES <br/>
-<a href="/entreprise-272/siren-885450262"> GRANJARD SAS</a>    ZI Pont Rochand 42360 PANISSIERERS <br/>
-<a href="/entreprise-253/siren-308054410"> GROUPE MULLIEZ FLORY</a>    Le Longeron 49710 SEVREMOINE <br/>
+<a href="/entreprise-550/siren-351592233"> ALM HALBOUT</a>    52, rue des Costelles 88460 DOCELLES <br/>
+<a href="/entreprise-582/siren-885450262"> GRANJARD SAS</a>    ZI Pont Rochand 42360 PANISSIERERS <br/>
+<a href="/entreprise-544/siren-308054410"> GROUPE MULLIEZ FLORY</a>    Le Longeron 49710 SEVREMOINE <br/>

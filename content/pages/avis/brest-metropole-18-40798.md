@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-242900314"> BREST METROPOLE</a><br/>
+<a href="/acheteur-137/siren-242900314"> BREST METROPOLE</a><br/>
 
 
 
@@ -32,9 +32,9 @@ BREST - Département 29 - Finistère
 
 ##### Codes CPV concerné(s) :
 CPV38500000 - **Appareils de contrôle et d'essai** <br/>
-CPV79714100 - **Services de localisation** <br/>
 CPV90611000 - **Services de voirie** <br/>
 CPV32400000 - **Réseaux** <br/>
+CPV79714100 - **Services de localisation** <br/>
 
 ##### Descripteurs :
 Voirie et réseaux divers <br/>

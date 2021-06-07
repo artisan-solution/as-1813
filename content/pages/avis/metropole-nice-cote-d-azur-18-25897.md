@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200030195"> METROPOLE NICE COTE D AZUR</a><br/>
+<a href="/acheteur-132/siren-200030195"> METROPOLE NICE COTE D AZUR</a><br/>
 
 
 
@@ -30,9 +30,9 @@ NICE - Département 06 - Alpes-Maritimes
 25/03/2018
 
 ##### Codes CPV concerné(s) :
+CPV50410000 - **Services de réparation et d'entretien d'appareils de mesure, d'essai et de contrôle** <br/>
 CPV50312600 - **Maintenance et réparation de matériel de technologies de l'information** <br/>
 CPV50000000 - **Services de réparation et d'entretien** <br/>
-CPV50410000 - **Services de réparation et d'entretien d'appareils de mesure, d'essai et de contrôle** <br/>
 
 ##### Descripteurs :
 Assainissement <br/>

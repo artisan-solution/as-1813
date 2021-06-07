@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200053759"> REGION NOUVELLE-AQUITAINE</a><br/>
+<a href="/acheteur-133/siren-200053759"> REGION NOUVELLE-AQUITAINE</a><br/>
 
 
 
@@ -31,13 +31,13 @@ BORDEAUX - Département 33 - Gironde
 
 ##### Codes CPV concerné(s) :
 CPV55320000 - **Services de distribution de repas** <br/>
-CPV55000000 - **Services d'hôtellerie, de restauration et de commerce au détail** <br/>
 CPV55100000 - **Services d'hôtellerie** <br/>
+CPV55000000 - **Services d'hôtellerie, de restauration et de commerce au détail** <br/>
 
 ##### Descripteurs :
 Prestations de services <br/>
 Prestation hotelière <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-399480490"> Crea sud communication</a>      Lescar <br/>
+<a href="/entreprise-555/siren-399480490"> Crea sud communication</a>      Lescar <br/>
 Coutanceau -  17440 Aytré <br/>

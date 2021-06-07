@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130022825"> CHAMBRE DE COMMERCE ET D'INDUSTRIE TERRITORIALE DU GARD</a><br/>
+<a href="/acheteur-132/siren-130022825"> CHAMBRE DE COMMERCE ET D'INDUSTRIE TERRITORIALE DU GARD</a><br/>
 
 
 
@@ -31,8 +31,8 @@ NIMES - Département 30 - Gard
 28/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV39563000 - **Textile de rembourrage, fils, tissus et articles textiles utilisés à des fins techniques** <br/>
 CPV39534000 - **Revêtement de sol industriel en textile** <br/>
+CPV39563000 - **Textile de rembourrage, fils, tissus et articles textiles utilisés à des fins techniques** <br/>
 
 ##### Descripteurs :
 Revêtements de sols <br/>

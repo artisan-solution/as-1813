@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-334336450"> CITALLIOS</a><br/>
+<a href="/acheteur-139/siren-334336450"> CITALLIOS</a><br/>
 
 
 
@@ -31,10 +31,10 @@ NANTERRE - Département 92 - Hauts-de-Seine
 30/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV03121000 - **Produits horticoles** <br/>
-CPV03450000 - **Produits de pépinière** <br/>
 CPV03120000 - **Produits horticoles et produits de pépinières** <br/>
+CPV03450000 - **Produits de pépinière** <br/>
 CPV03452000 - **Arbres** <br/>
+CPV03121000 - **Produits horticoles** <br/>
 
 ##### Descripteurs :
 Végétaux <br/>

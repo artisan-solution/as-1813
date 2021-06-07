@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-241300375"> CC VALLEE DES BAUX-ALPILLES (CC VBA)</a><br/>
+<a href="/acheteur-137/siren-241300375"> CC VALLEE DES BAUX-ALPILLES (CC VBA)</a><br/>
 
 
 
@@ -31,9 +31,9 @@ MAUSSANE LES ALPILLES - Département 13 - Bouches-du-Rhône
 31/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV90480000 - **Service de gestion du réseau d'assainissement** <br/>
-CPV71631430 - **Services d'essais d'étanchéité** <br/>
 CPV90491000 - **Services d'inspection des égouts** <br/>
+CPV71631430 - **Services d'essais d'étanchéité** <br/>
+CPV90480000 - **Service de gestion du réseau d'assainissement** <br/>
 
 ##### Descripteurs :
 Assainissement <br/>

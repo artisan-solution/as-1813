@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-258500222"> VENDEE EAU</a><br/>
+<a href="/acheteur-138/siren-258500222"> VENDEE EAU</a><br/>
 
 
 
@@ -36,5 +36,5 @@ CPV44161200 - **Canalisations d'eau** <br/>
 Canalisations <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-318571700"> SOCOVA TP</a>      COMMEQUIERS <br/>
-<a href="/entreprise-261/siren-428561740"> CISE TP</a>      PLOERMEL <br/>
+<a href="/entreprise-546/siren-318571700"> SOCOVA TP</a>      COMMEQUIERS <br/>
+<a href="/entreprise-559/siren-428561740"> CISE TP</a>      PLOERMEL <br/>

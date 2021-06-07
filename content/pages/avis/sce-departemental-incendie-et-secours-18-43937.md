@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-283400497"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
+<a href="/acheteur-139/siren-283400497"> SCE DEPARTEMENTAL INCENDIE ET SECOURS</a><br/>
 
 M. BARIOL Patrick, Chef du service des marchés publics
 

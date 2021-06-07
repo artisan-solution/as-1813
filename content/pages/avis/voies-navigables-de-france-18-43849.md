@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130017791"> VOIES NAVIGABLES DE FRANCE</a><br/>
+<a href="/acheteur-132/siren-130017791"> VOIES NAVIGABLES DE FRANCE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV45252124 - **Travaux de dragage et de pompage** <br/>
 Voirie <br/>
 
 ### Attribution du Marché :
-ENVISAN FRANCE SAS - 795 avenue de la 1ère Armée Française Rhin Danube 83500 La Seyne sur Mer <br/>
+<a href="/entreprise-567/siren-497765842"> ENVISAN FRANCE SAS</a>    795 avenue de la 1ère Armée Française Rhin Danube 83500 La Seyne sur Mer <br/>

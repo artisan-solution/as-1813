@@ -31,9 +31,9 @@ WASQUEHAL - Département 59 - Nord
 30/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV45200000 - **Travaux de construction complète ou partielle et travaux de génie civil** <br/>
 CPV45252130 - **Équipement de station d'épuration** <br/>
 CPV39350000 - **Équipement de réseau d'assainissement** <br/>
+CPV45200000 - **Travaux de construction complète ou partielle et travaux de génie civil** <br/>
 
 ##### Descripteurs :
 Ouvrage d'infrastructure <br/>

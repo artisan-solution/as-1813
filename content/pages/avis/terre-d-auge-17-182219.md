@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-241400878"> TERRE D'AUGE</a><br/>
+<a href="/acheteur-137/siren-241400878"> TERRE D'AUGE</a><br/>
 
 
 
@@ -32,10 +32,10 @@ PONT L EVEQUE - Département 14 - Calvados
 
 ##### Codes CPV concerné(s) :
 CPV30190000 - **Machines, fournitures et équipement de bureau divers** <br/>
-CPV30194000 - **Fournitures pour dessin** <br/>
-CPV30199000 - **Articles de papeterie et autres articles en papier** <br/>
 CPV30237300 - **Fournitures informatiques** <br/>
 CPV30192000 - **Fournitures de bureau** <br/>
+CPV30199000 - **Articles de papeterie et autres articles en papier** <br/>
+CPV30194000 - **Fournitures pour dessin** <br/>
 
 ##### Descripteurs :
 Articles de bureau et articles scolaires <br/>
@@ -44,6 +44,6 @@ Matériel de bureau <br/>
 Papeterie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-255/siren-330752205"> ACIPA</a>      MONISTROL SUR LOIRE <br/>
-<a href="/entreprise-272/siren-955510029"> FIDUCIAL</a>      LE HAVRE <br/>
-<a href="/entreprise-253/siren-302135405"> SADEL</a>      BRISSAC QUINCE <br/>
+<a href="/entreprise-547/siren-330752205"> ACIPA</a>      MONISTROL SUR LOIRE <br/>
+<a href="/entreprise-582/siren-955510029"> FIDUCIAL</a>      LE HAVRE <br/>
+<a href="/entreprise-544/siren-302135405"> SADEL</a>      BRISSAC QUINCE <br/>

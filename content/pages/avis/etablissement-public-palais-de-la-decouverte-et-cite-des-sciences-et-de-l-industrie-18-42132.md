@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-519587851"> ETABLISSEMENT PUBLIC PALAIS DE LA DECOUVERTE ET CITE DES SCIENCES ET DE L'INDUSTRIE</a><br/>
+<a href="/acheteur-139/siren-519587851"> ETABLISSEMENT PUBLIC PALAIS DE LA DECOUVERTE ET CITE DES SCIENCES ET DE L'INDUSTRIE</a><br/>
 
 Maquart Bruno, Président
 
@@ -32,12 +32,12 @@ Paris - Département 75 - Paris
 
 ##### Codes CPV concerné(s) :
 CPV72212520 - **Services de développement de logiciels multimédias** <br/>
-CPV48520000 - **Logiciels multimédias** <br/>
 CPV72212500 - **Services de développement de logiciels de communication et de logiciels multimédia** <br/>
+CPV48520000 - **Logiciels multimédias** <br/>
 
 ##### Descripteurs :
 Logiciel <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-794826677"> Active Creative Design</a>    18 rue de Clignancourt 75018 Paris <br/>
-<a href="/entreprise-259/siren-407768704"> OPIXIDO</a>    42 rue Alexandre Dumas 75011 Paris <br/>
+<a href="/entreprise-576/siren-794826677"> Active Creative Design</a>    18 rue de Clignancourt 75018 Paris <br/>
+<a href="/entreprise-556/siren-407768704"> OPIXIDO</a>    42 rue Alexandre Dumas 75011 Paris <br/>

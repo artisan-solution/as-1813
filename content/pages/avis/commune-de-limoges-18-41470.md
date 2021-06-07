@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-218708501"> COMMUNE DE LIMOGES</a><br/>
+<a href="/acheteur-136/siren-218708501"> COMMUNE DE LIMOGES</a><br/>
 
 
 
@@ -37,5 +37,5 @@ CPV90911300 - **Services de nettoyage de vitres** <br/>
 Nettoyage de locaux <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-799236575"> PLD GARONNE</a>    2098 La Lauragaise 31670 Labege <br/>
-<a href="/entreprise-260/siren-413937277"> ELLNI</a>    2 Avenue Anatole FranceBP 85 87203 Saint Junien Cedex <br/>
+<a href="/entreprise-576/siren-799236575"> PLD GARONNE</a>    2098 La Lauragaise 31670 Labege <br/>
+<a href="/entreprise-557/siren-413937277"> ELLNI</a>    2 Avenue Anatole FranceBP 85 87203 Saint Junien Cedex <br/>

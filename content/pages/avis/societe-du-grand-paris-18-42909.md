@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-525046017"> SOCIETE DU GRAND PARIS</a><br/>
+<a href="/acheteur-139/siren-525046017"> SOCIETE DU GRAND PARIS</a><br/>
 
 
 
@@ -38,5 +38,5 @@ Bâtiment <br/>
 TSO - SAS - Chemin du Corps de Garde 77508 CHELLES <br/>
 RAZEL BEC - SAS - 3 rue René Razel 91892 Orsay <br/>
 TSO CATENAIRES - SAS - Chemin du Corps de Garde 77507 CHELLES <br/>
-EIFFAGE GENIE CIVIL - SAS - 3-7 Place de l'Europe 78140 Velizy Villacoublay <br/>
+<a href="/entreprise-551/siren-352745749"> EIFFAGE GENIE CIVIL - SAS</a>    3-7 Place de l'Europe 78140 Velizy Villacoublay <br/>
 EIFFAGE RAIL - SNC - 3-7 place de l'Europe 78140 VELIZY VILLACOUBLAY <br/>

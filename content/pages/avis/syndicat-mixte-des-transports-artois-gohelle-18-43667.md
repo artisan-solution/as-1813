@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-256204165"> SYNDICAT MIXTE DES TRANSPORTS ARTOIS-GOHELLE</a><br/>
+<a href="/acheteur-138/siren-256204165"> SYNDICAT MIXTE DES TRANSPORTS ARTOIS-GOHELLE</a><br/>
 
 
 
@@ -38,8 +38,8 @@ Impression <br/>
 
 ### Attribution du Marché :
 IMPREMERIE DANQUIGNY - Avenue Georges Nuttin BP 71 59402 CAMBRAI <br/>
-<a href="/entreprise-255/siren-329106819"> REPROCOLOR</a>    ZAC du Moulin Lamblin 630 rue des Bourreliers 59320 HALLENNES LEZ HAUBOURDIN <br/>
+<a href="/entreprise-547/siren-329106819"> REPROCOLOR</a>    ZAC du Moulin Lamblin 630 rue des Bourreliers 59320 HALLENNES LEZ HAUBOURDIN <br/>
 Imprimerie Danquigny - Avenue Georges Nuttin BP 71 59402 CAMBRAI <br/>
-<a href="/entreprise-255/siren-329106819"> REPROCOLOR</a>    ZAC du Moulin Lamblin 630 rue des Bourreliers 59320 HALLENNES-LEZ-HAUBOURDIN <br/>
+<a href="/entreprise-547/siren-329106819"> REPROCOLOR</a>    ZAC du Moulin Lamblin 630 rue des Bourreliers 59320 HALLENNES-LEZ-HAUBOURDIN <br/>
 Impremerie Danquigny - Avenue Georges Nuttin BP 71 59402 CAMBRAI Cedex <br/>
-<a href="/entreprise-255/siren-329106819"> REPROCOLOR</a>    ZAC du Moulin Lamblin 630 rue des Bourreliers 59320 HALLENNES-LEZ-HAUBOURDIN <br/>
+<a href="/entreprise-547/siren-329106819"> REPROCOLOR</a>    ZAC du Moulin Lamblin 630 rue des Bourreliers 59320 HALLENNES-LEZ-HAUBOURDIN <br/>

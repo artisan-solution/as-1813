@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-224000018"> DEPARTEMENT DES LANDES</a><br/>
+<a href="/acheteur-137/siren-224000018"> DEPARTEMENT DES LANDES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ Voirie <br/>
 
 ### Attribution du Marché :
 SAS LAFITTE TP -   SAINT GEOURS DE MAREMNE <br/>
-<a href="/entreprise-255/siren-329405211"> COLAS SUD OUEST</a>      SAINT AVIT <br/>
+<a href="/entreprise-547/siren-329405211"> COLAS SUD OUEST</a>      SAINT AVIT <br/>

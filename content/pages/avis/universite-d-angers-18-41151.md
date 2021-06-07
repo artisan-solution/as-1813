@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-194909701"> UNIVERSITE D'ANGERS</a><br/>
+<a href="/acheteur-132/siren-194909701"> UNIVERSITE D'ANGERS</a><br/>
 
 
 
@@ -30,13 +30,13 @@ ANGERS - Département 49 - Maine-et-Loire
 28/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV71200000 - **Services d'architecture** <br/>
 CPV71300000 - **Services d'ingénierie** <br/>
-CPV71000000 - **Services d'architecture, services de construction, services d'ingénierie et services d'inspection** <br/>
 CPV71500000 - **Services relatifs à la construction** <br/>
+CPV71200000 - **Services d'architecture** <br/>
+CPV71000000 - **Services d'architecture, services de construction, services d'ingénierie et services d'inspection** <br/>
 
 ##### Descripteurs :
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-400019774"> Architectures Chabenes , Scott</a>    29 rue de Chateaubriand 44000 Nantes <br/>
+<a href="/entreprise-555/siren-400019774"> Architectures Chabenes , Scott</a>    29 rue de Chateaubriand 44000 Nantes <br/>

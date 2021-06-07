@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-824209886"> REGIE TOULON EVENEMENTS ET CONGRES</a><br/>
+<a href="/acheteur-140/siren-824209886"> REGIE TOULON EVENEMENTS ET CONGRES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV09310000 - **Électricité** <br/>
 Electricité, gaz (fourniture) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-552081317"> ELECTRICITE DE FRANCE</a>    7 Rue André Allar 13344 MARSEILLE <br/>
+<a href="/entreprise-572/siren-552081317"> ELECTRICITE DE FRANCE</a>    7 Rue André Allar 13344 MARSEILLE <br/>

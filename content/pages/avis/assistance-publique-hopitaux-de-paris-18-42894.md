@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-267500452"> ASSISTANCE PUBLIQUE HOPITAUX DE PARIS</a><br/>
+<a href="/acheteur-138/siren-267500452"> ASSISTANCE PUBLIQUE HOPITAUX DE PARIS</a><br/>
 
 
 
@@ -36,4 +36,4 @@ CPV71630000 - **Services de contrôle et d'essais techniques** <br/>
 Contrôle technique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-433250834"> dekra industrial sas</a>    19 rue Stuart Mill PA Limoges Sud BP 308 87008 Limoges <br/>
+<a href="/entreprise-560/siren-433250834"> dekra industrial sas</a>    19 rue Stuart Mill PA Limoges Sud BP 308 87008 Limoges <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-180043127"> AGENCE MUTUALISATION UNIVERSITES ETS ENSEIGNEMENT SUP OU RECHERCHE ET SUPPORT A L ENSEIGNEMENT SUP OU LA RECHERCHE</a><br/>
+<a href="/acheteur-132/siren-180043127"> AGENCE MUTUALISATION UNIVERSITES ETS ENSEIGNEMENT SUP OU RECHERCHE ET SUPPORT A L ENSEIGNEMENT SUP OU LA RECHERCHE</a><br/>
 
 
 
@@ -36,4 +36,4 @@ CPV48442000 - **Logiciels pour systèmes financiers** <br/>
 Logiciel <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-255/siren-330265323"> ITESOFT</a>    Parc d'Andron / Le Séquoia 30470 Aimargues <br/>
+<a href="/entreprise-547/siren-330265323"> ITESOFT</a>    Parc d'Andron / Le Séquoia 30470 Aimargues <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-006650089"> HABITATIONS DE HAUTE-PROVENCE</a><br/>
+<a href="/acheteur-131/siren-006650089"> HABITATIONS DE HAUTE-PROVENCE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV90910000 - **Services de nettoyage** <br/>
 Nettoyage de locaux <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-387250046"> NERA PROPRETE</a>    Z.I. Saint Maurice 04100 MANOSQUE <br/>
+<a href="/entreprise-553/siren-387250046"> NERA PROPRETE</a>    Z.I. Saint Maurice 04100 MANOSQUE <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219300464"> COMMUNE DE LIVRY GARGAN</a><br/>
+<a href="/acheteur-136/siren-219300464"> COMMUNE DE LIVRY GARGAN</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV38720000 - **Horodateurs** <br/>
 Matériel de précision <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-480736214"> IEM</a>    310 avenue Marie-Curie 74166 St Julien en Genevois <br/>
+<a href="/entreprise-564/siren-480736214"> IEM</a>    310 avenue Marie-Curie 74166 St Julien en Genevois <br/>

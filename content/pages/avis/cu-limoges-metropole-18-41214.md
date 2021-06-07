@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-248719312"> CU LIMOGES METROPOLE</a><br/>
+<a href="/acheteur-137/siren-248719312"> CU LIMOGES METROPOLE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV45340000 - **Travaux d'installation de clôtures, de garde-corps et de dispos
 Clôture <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-260/siren-418629366"> ALPHA PAYSAGES S.A.S.</a>    10, rue Louis Blériot 87270 COUZEIX <br/>
+<a href="/entreprise-558/siren-418629366"> ALPHA PAYSAGES S.A.S.</a>    10, rue Louis Blériot 87270 COUZEIX <br/>

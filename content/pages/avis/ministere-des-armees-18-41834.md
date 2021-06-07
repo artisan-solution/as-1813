@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110090016"> MINISTERE DES ARMEES</a><br/>
+<a href="/acheteur-131/siren-110090016"> MINISTERE DES ARMEES</a><br/>
 
 
 
@@ -36,4 +36,4 @@ CPV39000000 - **Meubles (y compris les meubles de bureau), aménagements, appare
 Mobilier <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-380416669"> FAIC SAS</a>    1 avenue Gustave Charlery - CS 60391 97328 CAYENNE CEDEX <br/>
+<a href="/entreprise-551/siren-380416669"> FAIC SAS</a>    1 avenue Gustave Charlery - CS 60391 97328 CAYENNE CEDEX <br/>

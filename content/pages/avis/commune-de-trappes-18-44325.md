@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217806215"> COMMUNE DE TRAPPES</a><br/>
+<a href="/acheteur-136/siren-217806215"> COMMUNE DE TRAPPES</a><br/>
 
 
 
@@ -38,10 +38,10 @@ CPV24311900 - **Chlore** <br/>
 Hygiène (articles) <br/>
 
 ### Attribution du Marché :
+<a href="/entreprise-544/siren-304101264"> Daugeron , Fils S.A.S</a>    12 Route De Montigny 77816 Moret Sur Loing Crdex <br/>
 Daugeron 1 Fils S.As - 12 Route De Montigny 77816 Moret Sur Loing Cedex <br/>
-<a href="/entreprise-256/siren-348214404"> 5s Groupe</a>    12 Rue De La Pature 95870 Bezons <br/>
-<a href="/entreprise-267/siren-533264784"> Sanogia Idf</a>    29-31 Boulevard de la Muette 95140 Garges Les Gonesse <br/>
-Daugeron , Fils S.A.S - 12 Route De Montigny 77816 Moret Sur Loing Crdex <br/>
-<a href="/entreprise-262/siren-448639575"> Ocedis</a>    Zi De Fetan 69 Allee Des Peupliers 01600 Trevoux <br/>
-<a href="/entreprise-267/siren-533264784"> Sanogia Idf</a>    29-31 Bd De La Muette 95140 Garges Les Gonesse <br/>
-<a href="/entreprise-256/siren-353294564"> Eurochlore</a>    25 Rue Circulaire 78110 Le Vesinet <br/>
+<a href="/entreprise-550/siren-348214404"> 5s Groupe</a>    12 Rue De La Pature 95870 Bezons <br/>
+<a href="/entreprise-571/siren-533264784"> Sanogia Idf</a>    29-31 Boulevard de la Muette 95140 Garges Les Gonesse <br/>
+<a href="/entreprise-562/siren-448639575"> Ocedis</a>    Zi De Fetan 69 Allee Des Peupliers 01600 Trevoux <br/>
+<a href="/entreprise-571/siren-533264784"> Sanogia Idf</a>    29-31 Bd De La Muette 95140 Garges Les Gonesse <br/>
+<a href="/entreprise-551/siren-353294564"> Eurochlore</a>    25 Rue Circulaire 78110 Le Vesinet <br/>

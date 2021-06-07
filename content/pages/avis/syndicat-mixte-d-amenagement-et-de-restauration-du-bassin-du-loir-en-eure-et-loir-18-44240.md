@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200030666"> SYNDICAT MIXTE D'AMENAGEMENT ET DE RESTAURATION DU BASSIN DU LOIR EN EURE ET LOIR</a><br/>
+<a href="/acheteur-132/siren-200030666"> SYNDICAT MIXTE D'AMENAGEMENT ET DE RESTAURATION DU BASSIN DU LOIR EN EURE ET LOIR</a><br/>
 
 
 
@@ -31,10 +31,10 @@ BONNEVAL () - Département 28 - Eure-et-Loir
 31/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV77200000 - **Services sylvicoles** <br/>
 CPV77310000 - **Réalisation et entretien d'espaces verts** <br/>
 CPV77211400 - **Services d'abattage d'arbres** <br/>
 CPV77211500 - **Services d'élagage** <br/>
+CPV77200000 - **Services sylvicoles** <br/>
 
 ##### Descripteurs :
 Rivières-ruisseaux <br/>

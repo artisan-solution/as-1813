@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-775682321"> COMITE GESTION OEUVRES SOC ETS HOSPIT PU</a><br/>
+<a href="/acheteur-140/siren-775682321"> COMITE GESTION OEUVRES SOC ETS HOSPIT PU</a><br/>
 
 
 
@@ -30,11 +30,11 @@ PARIS - Département 75 - Paris
 29/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV48000000 - **Logiciels et systèmes d'information** <br/>
 CPV72267100 - **Maintenance de logiciels de technologies de l'information** <br/>
+CPV48000000 - **Logiciels et systèmes d'information** <br/>
 
 ##### Descripteurs :
 Informatique (prestations de services) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-385365713"> GFI INFORMATIQUE</a>    145 boulevard Victor Hugo 93400 Saint-Ouen <br/>
+<a href="/entreprise-553/siren-385365713"> GFI INFORMATIQUE</a>    145 boulevard Victor Hugo 93400 Saint-Ouen <br/>

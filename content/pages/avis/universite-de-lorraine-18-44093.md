@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130015506"> UNIVERSITE DE LORRAINE</a><br/>
+<a href="/acheteur-132/siren-130015506"> UNIVERSITE DE LORRAINE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV90911300 - **Services de nettoyage de vitres** <br/>
 Nettoyage de locaux <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-260/siren-423142751"> ALLO NETTOYAGE</a>    64 bd du Maréchal Foch 54600 Villers les nancy <br/>
+<a href="/entreprise-559/siren-423142751"> ALLO NETTOYAGE</a>    64 bd du Maréchal Foch 54600 Villers les nancy <br/>

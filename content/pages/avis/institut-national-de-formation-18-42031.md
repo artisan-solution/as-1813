@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-815158712"> INSTITUT NATIONAL DE FORMATION</a><br/>
+<a href="/acheteur-140/siren-815158712"> INSTITUT NATIONAL DE FORMATION</a><br/>
 
 
 
@@ -37,5 +37,5 @@ CPV80530000 - **Services de formation professionnelle** <br/>
 Formation <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-255/siren-333544153"> M2I</a>    148, Rue de Picpus 75012 Paris <br/>
-<a href="/entreprise-258/siren-393367867"> SCRIBTEL FORMATION</a>    146-148, Rue de Picpus 75012 Paris <br/>
+<a href="/entreprise-548/siren-333544153"> M2I</a>    148, Rue de Picpus 75012 Paris <br/>
+<a href="/entreprise-554/siren-393367867"> SCRIBTEL FORMATION</a>    146-148, Rue de Picpus 75012 Paris <br/>

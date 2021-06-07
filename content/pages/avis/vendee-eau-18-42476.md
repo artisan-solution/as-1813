@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-258500222"> VENDEE EAU</a><br/>
+<a href="/acheteur-138/siren-258500222"> VENDEE EAU</a><br/>
 
 Eric RAMBAUD, Président de Vendée Eau
 
@@ -30,9 +30,9 @@ LA ROCHE SUR YON - Département 85 - Vendée
 27/03/2018
 
 ##### Codes CPV concerné(s) :
+CPV45240000 - **Travaux de construction d'ouvrages hydrauliques** <br/>
 CPV42122000 - **Pompes** <br/>
 CPV44161200 - **Canalisations d'eau** <br/>
-CPV45240000 - **Travaux de construction d'ouvrages hydrauliques** <br/>
 
 ##### Descripteurs :
 Equipement hydraulique <br/>

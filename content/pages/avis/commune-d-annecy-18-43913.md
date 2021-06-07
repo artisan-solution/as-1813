@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200063402"> COMMUNE D'ANNECY</a><br/>
+<a href="/acheteur-133/siren-200063402"> COMMUNE D'ANNECY</a><br/>
 
 Monsieur le Maire
 
@@ -37,5 +37,5 @@ CPV16160000 - **Matériel de jardinage divers** <br/>
 Matériel agricole, horticole <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-798209169"> BONFILS TERRE DE SAVOIE</a>    1250 Route d'Annecy 74540 SAINT FELIX <br/>
+<a href="/entreprise-576/siren-798209169"> BONFILS TERRE DE SAVOIE</a>    1250 Route d'Annecy 74540 SAINT FELIX <br/>
 SAS VAUDAUX - 138 route de Taninges 74100 VETRAZ MONTHOUX <br/>

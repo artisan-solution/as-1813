@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-214502841"> COMMUNE DE SAINT JEAN DE BRAYE</a><br/>
+<a href="/acheteur-135/siren-214502841"> COMMUNE DE SAINT JEAN DE BRAYE</a><br/>
 
 
 
@@ -41,8 +41,8 @@ Textile <br/>
 
 ### Attribution du Marché :
 Nouvelle Librairie Universitaire - Za Des Macherins Rue De Rome 89470 Moneteau 89470 Monéteau <br/>
-<a href="/entreprise-270/siren-811636406"> Bricout Linge</a>    Espace Lognes 77185 Lognes <br/>
-<a href="/entreprise-259/siren-401136502"> Tamo</a>    44 Route De La Sirole 06100 Nice <br/>
-<a href="/entreprise-268/siren-702046954"> Papouille</a>    Zi Vallee Des Peaux Rouges 60700 Fleurines <br/>
-<a href="/entreprise-259/siren-401494828"> Papeteries Pichon</a>    Zi Molina - 97 rue jean perrin 42350 La Talaudière <br/>
+<a href="/entreprise-578/siren-811636406"> Bricout Linge</a>    Espace Lognes 77185 Lognes <br/>
+<a href="/entreprise-555/siren-401136502"> Tamo</a>    44 Route De La Sirole 06100 Nice <br/>
+<a href="/entreprise-573/siren-702046954"> Papouille</a>    Zi Vallee Des Peaux Rouges 60700 Fleurines <br/>
+<a href="/entreprise-555/siren-401494828"> Papeteries Pichon</a>    Zi Molina - 97 rue jean perrin 42350 La Talaudière <br/>
 Techni Dessin-Majuscule - 31 Avenue Du Champ De Mars 45100 Orleans <br/>

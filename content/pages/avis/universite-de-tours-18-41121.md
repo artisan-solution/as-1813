@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-193708005"> UNIVERSITE DE TOURS</a><br/>
+<a href="/acheteur-132/siren-193708005"> UNIVERSITE DE TOURS</a><br/>
 
 
 
@@ -36,4 +36,4 @@ TOURS - Département 37 - Indre-et-Loire
 Laboratoire (matériel) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-311020911"> Bruker France</a>    34, rue de l'industrie - BP 10002 67166 WISSEMBOURG <br/>
+<a href="/entreprise-545/siren-311020911"> Bruker France</a>    34, rue de l'industrie - BP 10002 67166 WISSEMBOURG <br/>

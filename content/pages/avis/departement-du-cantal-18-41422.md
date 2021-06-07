@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-221500010"> DEPARTEMENT DU CANTAL</a><br/>
+<a href="/acheteur-137/siren-221500010"> DEPARTEMENT DU CANTAL</a><br/>
 
 
 
@@ -36,6 +36,6 @@ CPV44113610 - **Bitume** <br/>
 Matériaux routiers <br/>
 
 ### Attribution du Marché :
-COLAS RHONE ALPES AUVERGNE - BP 237 ZAC DE BARADEL - 11 AV DU GARRIC 15002 Aurillac Cedex <br/>
-<a href="/entreprise-259/siren-406320085"> RMCL</a>    CHAMPASSIS SUD 15240 Vebret <br/>
+<a href="/entreprise-547/siren-329393797"> COLAS RHONE ALPES AUVERGNE</a>    BP 237 ZAC DE BARADEL - 11 AV DU GARRIC 15002 Aurillac Cedex <br/>
+<a href="/entreprise-556/siren-406320085"> RMCL</a>    CHAMPASSIS SUD 15240 Vebret <br/>
 EMULSION LIANTS AVEYRONNAIS - CAPDENAGUET 12510 Balsac <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-224500017"> DEPARTEMENT DU LOIRET</a><br/>
+<a href="/acheteur-137/siren-224500017"> DEPARTEMENT DU LOIRET</a><br/>
 
 
 
@@ -36,4 +36,4 @@ ORLEANS - Département 45 - Loiret
 Logiciel <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-801821653"> Nextérité</a>    13 rue Saint-Sauveur 75002 Paris <br/>
+<a href="/entreprise-577/siren-801821653"> Nextérité</a>    13 rue Saint-Sauveur 75002 Paris <br/>

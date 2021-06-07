@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217500016"> VILLE DE PARIS</a><br/>
+<a href="/acheteur-136/siren-217500016"> VILLE DE PARIS</a><br/>
 
 Bureau de la Coordination de l'Approvisionnement et des Achats Service des Affaires Juridiques et Financières
 
@@ -37,5 +37,5 @@ Génie civil <br/>
 Serrurerie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-323077867"> SEGEX SAS</a>    4 bd Arago 91320 Wissous <br/>
+<a href="/entreprise-546/siren-323077867"> SEGEX SAS</a>    4 bd Arago 91320 Wissous <br/>
 Serrurerie-Menuiserie Métallique et Métallerie (S3M) - 143 boulevard gabriel peri 92240 Malakoff <br/>

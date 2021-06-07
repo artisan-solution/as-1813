@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200069250"> CA TROYES CHAMPAGNE METROPOLE</a><br/>
+<a href="/acheteur-133/siren-200069250"> CA TROYES CHAMPAGNE METROPOLE</a><br/>
 
 
 
@@ -31,8 +31,8 @@ Troyes - Département 10 - Aube
 28/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV90500000 - **Services liés aux déchets et aux ordures** <br/>
 CPV90000000 - **Services d'évacuation des eaux usées et d'élimination des déchets, services d'hygiénisation et services relatifs à l'environnement** <br/>
+CPV90500000 - **Services liés aux déchets et aux ordures** <br/>
 CPV90511200 - **Services de collecte des ordures ménagères** <br/>
 
 ##### Descripteurs :
@@ -41,4 +41,4 @@ Ordures ménagères (prestations) <br/>
 Déchets non ménagers (prestations) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-255/siren-333322618"> ECT COLLECTE</a>    Route de Lantilly 21140 SEMUR EN AUXOIS <br/>
+<a href="/entreprise-548/siren-333322618"> ECT COLLECTE</a>    Route de Lantilly 21140 SEMUR EN AUXOIS <br/>

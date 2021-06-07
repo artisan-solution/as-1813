@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-218300507"> COMMUNE DE DRAGUIGNAN</a><br/>
+<a href="/acheteur-136/siren-218300507"> COMMUNE DE DRAGUIGNAN</a><br/>
 
 Monsieur le Maire
 
@@ -36,4 +36,4 @@ CPV92311000 - **Œuvres d'art** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-379230717"> Atelier LAZULUM</a>    Mandataire du groupement constitué de l'Atelier LAZULUM, Susanna GUERITAUD, Marina WEISSMAN, Gilles TOURNILLON 45 rue Terrusse 13005 MARSEILLE <br/>
+<a href="/entreprise-551/siren-379230717"> Atelier LAZULUM</a>    Mandataire du groupement constitué de l'Atelier LAZULUM, Susanna GUERITAUD, Marina WEISSMAN, Gilles TOURNILLON 45 rue Terrusse 13005 MARSEILLE <br/>

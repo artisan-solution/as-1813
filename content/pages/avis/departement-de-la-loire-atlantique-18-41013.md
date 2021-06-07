@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-224400028"> DEPARTEMENT DE LA LOIRE-ATLANTIQUE</a><br/>
+<a href="/acheteur-137/siren-224400028"> DEPARTEMENT DE LA LOIRE-ATLANTIQUE</a><br/>
 
 
 
@@ -37,10 +37,10 @@ CPV90919200 - **Services de nettoyage de bureaux** <br/>
 Nettoyage de locaux <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-255/siren-328104997"> SERVICE REGIONAL DE NETTOYAGE</a>    32, boulevard Maréchal Juin 44100 NANTES <br/>
-<a href="/entreprise-268/siren-775605405"> ADAPEI LES PAPILLONS BLANCS - LES ATELIERS DE LA MEE</a>    43, rue d'Ancenis 44110 CHATEAUBRIANT <br/>
+<a href="/entreprise-547/siren-328104997"> SERVICE REGIONAL DE NETTOYAGE</a>    32, boulevard Maréchal Juin 44100 NANTES <br/>
+<a href="/entreprise-574/siren-775605405"> ADAPEI LES PAPILLONS BLANCS - LES ATELIERS DE LA MEE</a>    43, rue d'Ancenis 44110 CHATEAUBRIANT <br/>
 Société GUESNEAU SERVICES PROPRETE - 129, rue Robert Schuman 44800 SAINT HERBLAIN <br/>
-<a href="/entreprise-267/siren-542016951"> ISS Propreté</a>    2, rue Henri Farman - ZA des quatre nations 44360 VIGNEUX DE BRETAGNE <br/>
+<a href="/entreprise-572/siren-542016951"> ISS Propreté</a>    2, rue Henri Farman - ZA des quatre nations 44360 VIGNEUX DE BRETAGNE <br/>
 Société CLERSOL NANT'NET - 11, rue de Pimodan 44100 NANTES <br/>
 SOCIETE NET-PLUS - 60A, rue de la Rigourdière - CS 71705 35517 CESSON SEVIGNE CEDEX <br/>
 SOCIETE ISOR - 18-22, avenue d'Arras 92022 NANTERRE CEDEX <br/>

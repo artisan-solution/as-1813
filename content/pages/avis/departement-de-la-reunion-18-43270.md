@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-229740014"> DEPARTEMENT DE LA REUNION</a><br/>
+<a href="/acheteur-137/siren-229740014"> DEPARTEMENT DE LA REUNION</a><br/>
 
 
 
@@ -31,8 +31,8 @@ Saint-Denis - Département 974 - Réunion
 30/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV30210000 - **Machines de traitement des données (matériel)** <br/>
 CPV30232000 - **Périphériques (appareils)** <br/>
+CPV30210000 - **Machines de traitement des données (matériel)** <br/>
 CPV30213300 - **Ordinateur de bureau** <br/>
 CPV30213100 - **Ordinateurs portables** <br/>
 CPV30231000 - **Écrans et consoles d'ordinateurs** <br/>
@@ -42,4 +42,4 @@ Informatique (matériel) <br/>
 
 ### Attribution du Marché :
 Rta - 54 B, avenue Jean Albany 97400 Saint Denis <br/>
-<a href="/entreprise-257/siren-384520045"> Ocii</a>    175, allée des Topazes 97400 Saint Denis <br/>
+<a href="/entreprise-552/siren-384520045"> Ocii</a>    175, allée des Topazes 97400 Saint Denis <br/>

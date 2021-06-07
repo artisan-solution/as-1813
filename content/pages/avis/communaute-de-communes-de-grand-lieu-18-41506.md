@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-244400438"> COMMUNAUTE DE COMMUNES DE GRAND LIEU</a><br/>
+<a href="/acheteur-137/siren-244400438"> COMMUNAUTE DE COMMUNES DE GRAND LIEU</a><br/>
 
 
 
@@ -37,10 +37,10 @@ CPV77310000 - **Réalisation et entretien d'espaces verts** <br/>
 Espaces verts <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-271/siren-835271016"> ARBORA</a>    La Colonne - Torfou 49660 Sèvremoine <br/>
-<a href="/entreprise-265/siren-508050663"> EFFIVERT PONTCHATEAU</a>    4 rue des Frères Lumières - ZA de l'Abbaye III - Bp 20 44160 Pontchateau <br/>
-<a href="/entreprise-255/siren-339609661"> ID VERDE AGENCE DE NANTES</a>    2 rue Henri Farman - ZA des 4 Nations 44360 Vigneux de bretagne <br/>
-<a href="/entreprise-256/siren-342904364"> SAPRENA</a>    8 rue des coteaux de Grandlieu - BP 10 44830 Bouaye <br/>
-<a href="/entreprise-258/siren-389908385"> VERDE TERRA</a>    95 rue de la Mouchonnerie - CS 04118 11341 Bouguenais <br/>
-EFFIVERT PONCHATEAU - 4 rue des Frères Lumières - ZA de l'Abbaye III - Bp 20 44160 Pontchateau <br/>
 ID VERDE - 2 rue Henri Farman - ZA des 4 Nations 44360 Vigneux de bretagne <br/>
+<a href="/entreprise-580/siren-835271016"> ARBORA</a>    La Colonne - Torfou 49660 Sèvremoine <br/>
+<a href="/entreprise-568/siren-508050663"> EFFIVERT PONTCHATEAU</a>    4 rue des Frères Lumières - ZA de l'Abbaye III - Bp 20 44160 Pontchateau <br/>
+<a href="/entreprise-548/siren-339609661"> ID VERDE AGENCE DE NANTES</a>    2 rue Henri Farman - ZA des 4 Nations 44360 Vigneux de bretagne <br/>
+<a href="/entreprise-549/siren-342904364"> SAPRENA</a>    8 rue des coteaux de Grandlieu - BP 10 44830 Bouaye <br/>
+<a href="/entreprise-553/siren-389908385"> VERDE TERRA</a>    95 rue de la Mouchonnerie - CS 04118 11341 Bouguenais <br/>
+EFFIVERT PONCHATEAU - 4 rue des Frères Lumières - ZA de l'Abbaye III - Bp 20 44160 Pontchateau <br/>

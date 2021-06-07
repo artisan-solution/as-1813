@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-223500018"> DEPARTEMENT D ILLE ET VILAINE</a><br/>
+<a href="/acheteur-137/siren-223500018"> DEPARTEMENT D ILLE ET VILAINE</a><br/>
 
 
 
@@ -36,4 +36,4 @@ RENNES - Département 35 - Ile-et-Vilaine
 Informatique (prestations de services) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-266/siren-529753147"> RETIS</a>    Espace Jacques CartierBP 96031 35360 Montauban de Bretagne <br/>
+<a href="/entreprise-571/siren-529753147"> RETIS</a>    Espace Jacques CartierBP 96031 35360 Montauban de Bretagne <br/>

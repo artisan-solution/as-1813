@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-212800858"> COMMUNE DE CHARTRES</a><br/>
+<a href="/acheteur-134/siren-212800858"> COMMUNE DE CHARTRES</a><br/>
 
 
 
@@ -31,12 +31,12 @@ CHARTRES - Département 28 - Eure-et-Loir
 25/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV44113600 - **Bitume et asphalte** <br/>
-CPV45233141 - **Travaux d'entretien routier** <br/>
 CPV45233200 - **Travaux de revêtement divers** <br/>
 CPV45233220 - **Travaux de revêtement de routes** <br/>
-CPV44113320 - **Enrobés routiers** <br/>
 CPV34922100 - **Marquage routier** <br/>
+CPV44113320 - **Enrobés routiers** <br/>
+CPV44113600 - **Bitume et asphalte** <br/>
+CPV45233141 - **Travaux d'entretien routier** <br/>
 
 ##### Descripteurs :
 Voirie <br/>
@@ -44,7 +44,7 @@ Voirie et réseaux divers <br/>
 
 ### Attribution du Marché :
 EURL REPAROUTE - 3 avenue Jean Jaurès 86300 CHAUVIGNY <br/>
-<a href="/entreprise-261/siren-433604196"> EIFFAGE ROUTE ILE DE FRANCE CENTRE</a>    Etablissement EURE ET LOIR - SNCRue du Président Kennedy - BP 70074 28112 LUCE CEDEX <br/>
+<a href="/entreprise-560/siren-433604196"> EIFFAGE ROUTE ILE DE FRANCE CENTRE</a>    Etablissement EURE ET LOIR - SNCRue du Président Kennedy - BP 70074 28112 LUCE CEDEX <br/>
 SIGNAUX GIROD OUEST SARL - 2 rue Antonin Magne 45400 FLEURY LES AUBRAIS <br/>
 SN TOUZET BTP SAS - 14 rue de la Taye BP 122 28113 LUCE <br/>
 SARL PAV'ROX - 14 Bis rue de la Croix Bourgot 28800 BONNEVAL <br/>

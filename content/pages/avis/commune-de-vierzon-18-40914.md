@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211802798"> COMMUNE DE VIERZON</a><br/>
+<a href="/acheteur-134/siren-211802798"> COMMUNE DE VIERZON</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV44423400 - **Panneaux de signalisation et articles connexes** <br/>
 Signalisation <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-409065984"> Lacroix signalisation</a>    8 impasse du bourrelier BP 30004 44801 Saint Herblain <br/>
+<a href="/entreprise-556/siren-409065984"> Lacroix signalisation</a>    8 impasse du bourrelier BP 30004 44801 Saint Herblain <br/>

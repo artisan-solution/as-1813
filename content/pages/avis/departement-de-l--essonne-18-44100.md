@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-229102280"> DEPARTEMENT DE L' ESSONNE</a><br/>
+<a href="/acheteur-137/siren-229102280"> DEPARTEMENT DE L' ESSONNE</a><br/>
 
 
 
@@ -31,11 +31,11 @@ EVRY - Département 91 - Essonne
 31/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV22440000 - **Formules de chèque** <br/>
 CPV75310000 - **Services de prestations** <br/>
+CPV22440000 - **Formules de chèque** <br/>
 
 ##### Descripteurs :
 Imprimés <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-642044366"> UP</a>    27/29 Avenue des Louvresses 92230 Gennevilliers <br/>
+<a href="/entreprise-573/siren-642044366"> UP</a>    27/29 Avenue des Louvresses 92230 Gennevilliers <br/>

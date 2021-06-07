@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211300041"> COMMUNE D ARLES</a><br/>
+<a href="/acheteur-134/siren-211300041"> COMMUNE D ARLES</a><br/>
 
 Schiavetti Hervé, Maire
 
@@ -31,8 +31,8 @@ ARLES - Département 13 - Bouches-du-Rhône
 27/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV34114400 - **Minibus** <br/>
 CPV34115200 - **Véhicules à moteur pour le transport de moins de dix personnes** <br/>
+CPV34114400 - **Minibus** <br/>
 
 ##### Descripteurs :
 Location (matériels) <br/>

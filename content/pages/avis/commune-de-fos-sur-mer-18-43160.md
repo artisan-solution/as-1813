@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211300397"> COMMUNE DE FOS SUR MER</a><br/>
+<a href="/acheteur-134/siren-211300397"> COMMUNE DE FOS SUR MER</a><br/>
 
 M. Raimondi René, Maire
 
@@ -38,4 +38,4 @@ Analyses médicales, biologiques <br/>
 Hygiène (articles) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-802775361"> ABIOLAB</a>    60 allée SAint Exupéry 38330 MONTBONNOT SAINT MARTIN <br/>
+<a href="/entreprise-577/siren-802775361"> ABIOLAB</a>    60 allée SAint Exupéry 38330 MONTBONNOT SAINT MARTIN <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200033579"> COMMUNAUTE URBAINE D'ARRAS</a><br/>
+<a href="/acheteur-132/siren-200033579"> COMMUNAUTE URBAINE D'ARRAS</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV71356100 - **Services de contrôle technique** <br/>
 Contrôle technique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-804448587"> QCS SERVICES</a>    Synergie Park, 13 rue Pierre et Marie Curie 59260 LEZENNES <br/>
+<a href="/entreprise-577/siren-804448587"> QCS SERVICES</a>    Synergie Park, 13 rue Pierre et Marie Curie 59260 LEZENNES <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243300316"> BORDEAUX METROPOLE</a><br/>
+<a href="/acheteur-137/siren-243300316"> BORDEAUX METROPOLE</a><br/>
 
 
 
@@ -37,8 +37,8 @@ CPV71241000 - **Études de faisabilité, service de conseil, analyse** <br/>
 Etude <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-269/siren-799439583"> Sermet</a>     94000 Creteil <br/>
-<a href="/entreprise-258/siren-393206735"> Antea</a>     45166 Olivet <br/>
+<a href="/entreprise-576/siren-799439583"> Sermet</a>     94000 Creteil <br/>
+<a href="/entreprise-554/siren-393206735"> Antea</a>     45166 Olivet <br/>
 Itherm -  92230 Gennevilliers <br/>
 Parme -  75017 Paris <br/>
-<a href="/entreprise-253/siren-301253688"> AEC</a>     75008 Paris <br/>
+<a href="/entreprise-544/siren-301253688"> AEC</a>     75008 Paris <br/>

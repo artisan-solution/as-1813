@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243000643"> COMMUNAUTE AGGLO NIMES METROPOLE</a><br/>
+<a href="/acheteur-137/siren-243000643"> COMMUNAUTE AGGLO NIMES METROPOLE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV45422100 - **Ouvrages en bois** <br/>
 Mobilier <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-255/siren-327448825"> RBC MOBILIER</a>     30660 GALLARGUES LE MONTUEUX <br/>
+<a href="/entreprise-547/siren-327448825"> RBC MOBILIER</a>     30660 GALLARGUES LE MONTUEUX <br/>

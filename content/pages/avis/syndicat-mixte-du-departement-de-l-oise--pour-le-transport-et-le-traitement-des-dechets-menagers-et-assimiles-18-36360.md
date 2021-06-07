@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200067619"> SYNDICAT MIXTE DU DEPARTEMENT DE L'OISE, POUR LE TRANSPORT ET LE TRAITEMENT DES DECHETS MENAGERS ET ASSIMILES</a><br/>
+<a href="/acheteur-133/siren-200067619"> SYNDICAT MIXTE DU DEPARTEMENT DE L'OISE, POUR LE TRANSPORT ET LE TRAITEMENT DES DECHETS MENAGERS ET ASSIMILES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV90500000 - **Services liés aux déchets et aux ordures** <br/>
 Déchetterie (exploitation) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-697180453"> BUTIN SEDIC</a>     60540 Bornel <br/>
+<a href="/entreprise-573/siren-697180453"> BUTIN SEDIC</a>     60540 Bornel <br/>

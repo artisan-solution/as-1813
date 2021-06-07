@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-216004655"> COMMUNE DE NOYON</a><br/>
+<a href="/acheteur-135/siren-216004655"> COMMUNE DE NOYON</a><br/>
 
 
 
@@ -37,5 +37,5 @@ CPV45210000 - **Travaux de construction de bâtiments** <br/>
 Bâtiment <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-487734394"> DEMATHIEU BARD CONSTRUCTION NORD</a>    ZI de la Pilaterie - Rue de la Couture 59700 Marcq-en-Baroeul <br/>
-<a href="/entreprise-272/siren-854800745"> AXIMA CONCEPT</a>    1 place des Degrés - Tour Voltaire 92059 La Défense <br/>
+<a href="/entreprise-565/siren-487734394"> DEMATHIEU BARD CONSTRUCTION NORD</a>    ZI de la Pilaterie - Rue de la Couture 59700 Marcq-en-Baroeul <br/>
+<a href="/entreprise-581/siren-854800745"> AXIMA CONCEPT</a>    1 place des Degrés - Tour Voltaire 92059 La Défense <br/>

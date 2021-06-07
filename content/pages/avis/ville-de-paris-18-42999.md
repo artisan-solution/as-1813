@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217500016"> VILLE DE PARIS</a><br/>
+<a href="/acheteur-136/siren-217500016"> VILLE DE PARIS</a><br/>
 
 Mme Anneli DUCHATEL, Chef de la Section Locale d'Architecture 8/9/10ème arrondissements
 
@@ -36,4 +36,4 @@ Paris - Département 75 - Paris
 Electricité (travaux) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-258/siren-394366215"> TBES</a>    189 rue d'Aubervilliers 75018 Paris <br/>
+<a href="/entreprise-554/siren-394366215"> TBES</a>    189 rue d'Aubervilliers 75018 Paris <br/>

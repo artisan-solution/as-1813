@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200049310"> S.MIXTE POUR L'AMENAGEMENT HYDRAULIQUE DES VALLEES DU CROULT ET DU PETIT ROSNE</a><br/>
+<a href="/acheteur-133/siren-200049310"> S.MIXTE POUR L'AMENAGEMENT HYDRAULIQUE DES VALLEES DU CROULT ET DU PETIT ROSNE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV64210000 - **Services de téléphonie et de transmission de données** <br/>
 Télégestion <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-380129866"> ORANGE SA</a>    Agence Entreprises Défense Ouest Francilien 2/10 rue Léo Lagrange 95610 ERAGNY SUR OISE 95610 Eragny sur oise <br/>
+<a href="/entreprise-551/siren-380129866"> ORANGE SA</a>    Agence Entreprises Défense Ouest Francilien 2/10 rue Léo Lagrange 95610 ERAGNY SUR OISE 95610 Eragny sur oise <br/>

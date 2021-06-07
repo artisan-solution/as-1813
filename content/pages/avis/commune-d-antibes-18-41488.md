@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-210600045"> COMMUNE D'ANTIBES</a><br/>
+<a href="/acheteur-134/siren-210600045"> COMMUNE D'ANTIBES</a><br/>
 
 M. MAIRE Le
 
@@ -36,4 +36,4 @@ CPV45233221 - **Travaux de marquage routier** <br/>
 Signalisation <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-266/siren-528429699"> AZUR LA LINEA SERVICES - A2LS</a>    13, boulevard schley 06130 Grasse <br/>
+<a href="/entreprise-571/siren-528429699"> AZUR LA LINEA SERVICES - A2LS</a>    13, boulevard schley 06130 Grasse <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-245900428"> COMMUNAUTE URBAINE DE DUNKERQUE</a><br/>
+<a href="/acheteur-137/siren-245900428"> COMMUNAUTE URBAINE DE DUNKERQUE</a><br/>
 
 
 
@@ -37,5 +37,5 @@ CPV44211100 - **Bâtiments modulaires préfabriqués** <br/>
 Bâtiments modulaires <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-685550659"> ALGECO</a>    Z.I. Le Petit Brûlard 62820 LIBERCOURT <br/>
-<a href="/entreprise-268/siren-685550659"> ALGECO</a>    Z.I. Le Brûlard 62820 LIBERCOURT <br/>
+<a href="/entreprise-573/siren-685550659"> ALGECO</a>    Z.I. Le Petit Brûlard 62820 LIBERCOURT <br/>
+<a href="/entreprise-573/siren-685550659"> ALGECO</a>    Z.I. Le Brûlard 62820 LIBERCOURT <br/>

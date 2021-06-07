@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-245900428"> COMMUNAUTE URBAINE DE DUNKERQUE</a><br/>
+<a href="/acheteur-137/siren-245900428"> COMMUNAUTE URBAINE DE DUNKERQUE</a><br/>
 
 
 
@@ -31,8 +31,8 @@ DUNKERQUE - Département 59 - Nord
 31/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV45232410 - **Travaux d'assainissement** <br/>
 CPV34993000 - **Éclairage public** <br/>
+CPV45232410 - **Travaux d'assainissement** <br/>
 CPV45233120 - **Travaux de construction de routes** <br/>
 
 ##### Descripteurs :
@@ -41,4 +41,4 @@ Eclairage public <br/>
 Voirie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-402096267"> EIFFAGE ROUTE NORD EST</a>    36, avenue Jean Monnet 59640 DUNKERQUE <br/>
+<a href="/entreprise-555/siren-402096267"> EIFFAGE ROUTE NORD EST</a>    36, avenue Jean Monnet 59640 DUNKERQUE <br/>

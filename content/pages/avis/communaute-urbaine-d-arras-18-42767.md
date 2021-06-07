@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200033579"> COMMUNAUTE URBAINE D'ARRAS</a><br/>
+<a href="/acheteur-132/siren-200033579"> COMMUNAUTE URBAINE D'ARRAS</a><br/>
 
 M. RAPENEAU Philippe, Président
 
@@ -45,12 +45,12 @@ Peinture (travaux) <br/>
 Voirie et réseaux divers <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-343842563"> EGI GRESSIER</a>    26 route de béthune 62223 Sainte catherine <br/>
-<a href="/entreprise-257/siren-381818558"> SAS SNPC</a>    23 rue jehan bodel 62217 Beaurains <br/>
-<a href="/entreprise-268/siren-783931280"> FER-ART</a>    Technoparc futura 62400 Béthune <br/>
+<a href="/entreprise-549/siren-343842563"> EGI GRESSIER</a>    26 route de béthune 62223 Sainte catherine <br/>
+<a href="/entreprise-552/siren-381818558"> SAS SNPC</a>    23 rue jehan bodel 62217 Beaurains <br/>
+<a href="/entreprise-575/siren-783931280"> FER-ART</a>    Technoparc futura 62400 Béthune <br/>
 SAS RAMERY BATIMENT - 334 rue de l'alloeu cs 10409 59424 Erquinghem-lys <br/>
 SDE MENUISERIE - 03 rue jehan bodel bp 30057 62217 Beaurains <br/>
-<a href="/entreprise-257/siren-369200019"> COEXIA ENVELOPPE</a>    05 rue frédéric sauvage 62300 Lens <br/>
+<a href="/entreprise-551/siren-369200019"> COEXIA ENVELOPPE</a>    05 rue frédéric sauvage 62300 Lens <br/>
 SARL EFFET D'O - 16 ter rue pierre curie 62153 Souchez <br/>
 SA RUDANT ET FILS - 244 rue de l'yser cs 20062 59331 Tourcoing <br/>
 SAS ARDECO - Zone industrielle - rue copernic 62970 Courcelles-les-lens <br/>

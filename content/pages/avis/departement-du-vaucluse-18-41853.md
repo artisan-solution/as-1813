@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-228400016"> DEPARTEMENT DU VAUCLUSE</a><br/>
+<a href="/acheteur-137/siren-228400016"> DEPARTEMENT DU VAUCLUSE</a><br/>
 
 
 
@@ -38,5 +38,5 @@ Maîtrise d'oeuvre <br/>
 
 ### Attribution du Marché :
 AD2i Ingenierie - Parc d'Ariane - B2 11 bd de la Grande Thumine 13090 AIX EN PROVENCE <br/>
-<a href="/entreprise-264/siren-499620805"> i-LOT Architecture</a>    43 Le Corbusier 280 bd Michelet 13008 MARSEILLE <br/>
-<a href="/entreprise-258/siren-392382255"> VERDI INGENIERIE MEDITERRANEE</a>    31TER chemin Brunet 13090 AIX EN PROVENCE <br/>
+<a href="/entreprise-567/siren-499620805"> i-LOT Architecture</a>    43 Le Corbusier 280 bd Michelet 13008 MARSEILLE <br/>
+<a href="/entreprise-554/siren-392382255"> VERDI INGENIERIE MEDITERRANEE</a>    31TER chemin Brunet 13090 AIX EN PROVENCE <br/>

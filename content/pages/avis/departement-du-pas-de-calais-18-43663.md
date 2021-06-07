@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-226200012"> DEPARTEMENT DU PAS DE CALAIS</a><br/>
+<a href="/acheteur-137/siren-226200012"> DEPARTEMENT DU PAS DE CALAIS</a><br/>
 
 
 
@@ -37,15 +37,15 @@ CPV45233220 - **Travaux de revêtement de routes** <br/>
 Voirie <br/>
 
 ### Attribution du Marché :
-EJL LILLE FLANDRES - 4 avenue Port Fluvial 59003 LILLE CEDEX <br/>
-<a href="/entreprise-255/siren-329198337"> COLAS NORD EST</a>    Ecluse Saint Bertin 62500 Saint-Omer <br/>
-<a href="/entreprise-267/siren-617120118"> RAMERY TP</a>    1 avenue de l'Europe 62250 Leulinghen Bernes <br/>
-<a href="/entreprise-267/siren-617120118"> RAMERY TP</a>    1 avenue de l'Europe  Leulinghen Bernes <br/>
-EJL LILLE FLANDRES - 4 avenue Port Fluvial 59003 LILLE CEDEX <br/>
-<a href="/entreprise-259/siren-404163941"> EUROVIA PAS DE CALAIS</a>    ZAC Marcel Doret 62106 Calais <br/>
-<a href="/entreprise-255/siren-329198337"> COLAS NORD EST</a>    ZAL de la Houlette  Desvres <br/>
+<a href="/entreprise-547/siren-329198337"> COLAS NORD EST</a>    Ecluse Saint Bertin 62500 Saint-Omer <br/>
+<a href="/entreprise-573/siren-617120118"> RAMERY TP</a>    1 avenue de l'Europe 62250 Leulinghen Bernes <br/>
+<a href="/entreprise-556/siren-404164204"> EJL LILLE FLANDRES</a>    4 avenue Port Fluvial 59003 LILLE CEDEX <br/>
+<a href="/entreprise-573/siren-617120118"> RAMERY TP</a>    1 avenue de l'Europe  Leulinghen Bernes <br/>
+<a href="/entreprise-556/siren-404163941"> EUROVIA PAS DE CALAIS</a>    ZAC Marcel Doret 62106 Calais <br/>
+<a href="/entreprise-556/siren-404164204"> EJL LILLE FLANDRES</a>    4 avenue Port Fluvial 59003 LILLE CEDEX <br/>
+<a href="/entreprise-547/siren-329198337"> COLAS NORD EST</a>    ZAL de la Houlette  Desvres <br/>
 EJL LILLE FLANDRES - 4 avenue Port Fluvial  LILLE CEDEX <br/>
-<a href="/entreprise-255/siren-329198337"> COLAS NORD EST</a>    50 avenue de Varsovie  LENS <br/>
-<a href="/entreprise-259/siren-404163941"> EUROVIA PAS DE CALAIS</a>    4 rue Montaigne 62670 Mazingarbe <br/>
-<a href="/entreprise-259/siren-402096267"> EIFFAGE ROUTE NORD EST</a>    14, rue Montaigne 62670 Mazingarbe <br/>
-<a href="/entreprise-259/siren-404163941"> EUROVIA PAS DE CALAIS</a>    ZAC Marcel Doret  Calais <br/>
+<a href="/entreprise-547/siren-329198337"> COLAS NORD EST</a>    50 avenue de Varsovie  LENS <br/>
+<a href="/entreprise-556/siren-404163941"> EUROVIA PAS DE CALAIS</a>    4 rue Montaigne 62670 Mazingarbe <br/>
+<a href="/entreprise-555/siren-402096267"> EIFFAGE ROUTE NORD EST</a>    14, rue Montaigne 62670 Mazingarbe <br/>
+<a href="/entreprise-556/siren-404163941"> EUROVIA PAS DE CALAIS</a>    ZAC Marcel Doret  Calais <br/>

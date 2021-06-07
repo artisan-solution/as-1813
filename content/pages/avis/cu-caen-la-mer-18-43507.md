@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200065597"> CU CAEN LA MER</a><br/>
+<a href="/acheteur-133/siren-200065597"> CU CAEN LA MER</a><br/>
 
 
 
@@ -31,16 +31,16 @@ CAEN - Département 14 - Calvados
 31/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV66514110 - **Services d'assurance de véhicules à moteur** <br/>
+CPV66513100 - **Services d'assurance défense et recours** <br/>
 CPV66515200 - **Services d'assurance de biens** <br/>
+CPV66514110 - **Services d'assurance de véhicules à moteur** <br/>
+CPV66510000 - **Services d'assurance** <br/>
 CPV66516000 - **Services d'assurance responsabilité civile** <br/>
 CPV66512000 - **Services d'assurances accidents et maladie** <br/>
-CPV66510000 - **Services d'assurance** <br/>
-CPV66513100 - **Services d'assurance défense et recours** <br/>
 
 ##### Descripteurs :
 Assurance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-341539815"> Paris Nord Assurances Services</a>    159, rue du Faubourg Poissonnière 75009 PARIS <br/>
-<a href="/entreprise-264/siren-487982647"> Assurances GOUPIL</a>    15, rue Dumont d'Urville 76107 ROUEN CEDEX <br/>
+<a href="/entreprise-549/siren-341539815"> Paris Nord Assurances Services</a>    159, rue du Faubourg Poissonnière 75009 PARIS <br/>
+<a href="/entreprise-565/siren-487982647"> Assurances GOUPIL</a>    15, rue Dumont d'Urville 76107 ROUEN CEDEX <br/>

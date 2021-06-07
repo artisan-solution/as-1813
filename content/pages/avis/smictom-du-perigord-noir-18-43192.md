@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-252402284"> SMICTOM DU PERIGORD NOIR</a><br/>
+<a href="/acheteur-137/siren-252402284"> SMICTOM DU PERIGORD NOIR</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV09134000 - **Gasoils** <br/>
 Carburant, hydrocarbure <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-401214515"> Sarl Cadiot</a>    Bonnefon 24590 St Crepin Et Carlucet <br/>
+<a href="/entreprise-555/siren-401214515"> Sarl Cadiot</a>    Bonnefon 24590 St Crepin Et Carlucet <br/>

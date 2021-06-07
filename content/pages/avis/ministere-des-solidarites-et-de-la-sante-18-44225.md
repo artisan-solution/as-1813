@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130016538"> MINISTERE DES SOLIDARITES ET DE LA SANTE</a><br/>
+<a href="/acheteur-132/siren-130016538"> MINISTERE DES SOLIDARITES ET DE LA SANTE</a><br/>
 
 
 
@@ -30,13 +30,13 @@ Paris - Département 75 - Paris
 31/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV50700000 - **Services de réparation et d'entretien d'installations de bâtiments** <br/>
 CPV85111820 - **Services d'analyses bactériologiques** <br/>
+CPV50700000 - **Services de réparation et d'entretien d'installations de bâtiments** <br/>
+CPV50720000 - **Services de réparation et d'entretien de chauffage central** <br/>
 CPV50730000 - **Services de réparation et d'entretien de groupes de réfrigération** <br/>
-CPV71620000 - **Services d'analyses** <br/>
 CPV50000000 - **Services de réparation et d'entretien** <br/>
 CPV90915000 - **Services de nettoyage de fourneaux et de cheminées** <br/>
-CPV50720000 - **Services de réparation et d'entretien de chauffage central** <br/>
+CPV71620000 - **Services d'analyses** <br/>
 
 ##### Descripteurs :
 Analyses médicales, biologiques <br/>

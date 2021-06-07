@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-519587851"> ETABLISSEMENT PUBLIC PALAIS DE LA DECOUVERTE ET CITE DES SCIENCES ET DE L'INDUSTRIE</a><br/>
+<a href="/acheteur-139/siren-519587851"> ETABLISSEMENT PUBLIC PALAIS DE LA DECOUVERTE ET CITE DES SCIENCES ET DE L'INDUSTRIE</a><br/>
 
 
 
@@ -31,11 +31,11 @@ Paris - Département 75 - Paris
 29/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV75251000 - **Services d'incendie** <br/>
 CPV75250000 - **Services d'incendie et de secours** <br/>
+CPV75251000 - **Services d'incendie** <br/>
 
 ##### Descripteurs :
 Assistance technique <br/>
 
 ### Attribution du Marché :
-Consulting Sécurité - 23 rue vauvenargue 75018 Paris <br/>
+<a href="/entreprise-576/siren-793795030"> Consulting Sécurité</a>    23 rue vauvenargue 75018 Paris <br/>

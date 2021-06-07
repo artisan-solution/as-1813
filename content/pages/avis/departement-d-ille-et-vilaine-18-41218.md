@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-223500018"> DEPARTEMENT D ILLE ET VILAINE</a><br/>
+<a href="/acheteur-137/siren-223500018"> DEPARTEMENT D ILLE ET VILAINE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV66133000 - **Services de traitement d'opérations et services de compensation
 Titres restaurant <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-642044366"> UP</a>    27 avenue des Louvresses 92230 Gennevilliers <br/>
+<a href="/entreprise-573/siren-642044366"> UP</a>    27 avenue des Louvresses 92230 Gennevilliers <br/>

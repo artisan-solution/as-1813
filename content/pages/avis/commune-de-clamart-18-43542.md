@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219200235"> COMMUNE DE CLAMART</a><br/>
+<a href="/acheteur-136/siren-219200235"> COMMUNE DE CLAMART</a><br/>
 
 Direction de la commande publique
 
@@ -31,9 +31,9 @@ Clamart - Département 92 - Hauts-de-Seine
 29/03/2018
 
 ##### Codes CPV concerné(s) :
+CPV45421150 - **Travaux d'installation de menuiseries non métalliques** <br/>
 CPV45421140 - **Pose de menuiseries métalliques, excepté portes et fenêtres** <br/>
 CPV45443000 - **Travaux de façade** <br/>
-CPV45421150 - **Travaux d'installation de menuiseries non métalliques** <br/>
 
 ##### Descripteurs :
 Menuiserie <br/>
@@ -42,4 +42,4 @@ Ravalement <br/>
 Serrurerie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-775725419"> DARRAS ET JOUANIN</a>    2, rue des Sables 91170 Viry-Chatillon <br/>
+<a href="/entreprise-574/siren-775725419"> DARRAS ET JOUANIN</a>    2, rue des Sables 91170 Viry-Chatillon <br/>

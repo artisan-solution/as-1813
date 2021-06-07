@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211401187"> COMMUNE DE CAEN</a><br/>
+<a href="/acheteur-134/siren-211401187"> COMMUNE DE CAEN</a><br/>
 
 
 
@@ -31,14 +31,14 @@ CAEN - Département 14 - Calvados
 29/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV45311200 - **Travaux d'installations électriques** <br/>
 CPV45316110 - **Installation de matériel d'éclairage public** <br/>
 CPV45233262 - **Travaux de construction de zones piétonnes** <br/>
+CPV45311200 - **Travaux d'installations électriques** <br/>
 
 ##### Descripteurs :
 Eclairage public <br/>
 Voirie et réseaux divers <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-321814881"> TOFFOLUTTI</a>      MOULT <br/>
-<a href="/entreprise-262/siren-443974738"> GARCZYNSKI TRAPLOIR Calvados</a>      IFS <br/>
+<a href="/entreprise-546/siren-321814881"> TOFFOLUTTI</a>      MOULT <br/>
+<a href="/entreprise-562/siren-443974738"> GARCZYNSKI TRAPLOIR Calvados</a>      IFS <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-224200014"> DEPARTEMENT DE LA LOIRE</a><br/>
+<a href="/acheteur-137/siren-224200014"> DEPARTEMENT DE LA LOIRE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV72610000 - **Services d'assistance informatique** <br/>
 Informatique (prestations de services) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-381589886"> Abicom Informatique</a>    10 Allee Pierre De Fermat 63170 Aubière <br/>
+<a href="/entreprise-552/siren-381589886"> Abicom Informatique</a>    10 Allee Pierre De Fermat 63170 Aubière <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217801331"> COMMUNE DE CHAMBOURCY</a><br/>
+<a href="/acheteur-136/siren-217801331"> COMMUNE DE CHAMBOURCY</a><br/>
 
 
 
@@ -31,11 +31,11 @@ Chambourcy - Département 78 - Yvelines
 29/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV90610000 - **Services de voirie et services de balayage des rues** <br/>
 CPV90600000 - **Services de propreté et d'hygiénisation en milieu urbain ou rural, et services connexes** <br/>
+CPV90610000 - **Services de voirie et services de balayage des rues** <br/>
 
 ##### Descripteurs :
 Nettoyage urbain <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-266/siren-524334943"> Otus Snc</a>    Le Vermont - 28 Bd de Pesaro - Tsa 67779 92739 Nanterre cedex <br/>
+<a href="/entreprise-570/siren-524334943"> Otus Snc</a>    Le Vermont - 28 Bd de Pesaro - Tsa 67779 92739 Nanterre cedex <br/>

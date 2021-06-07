@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-334336450"> CITALLIOS</a><br/>
+<a href="/acheteur-139/siren-334336450"> CITALLIOS</a><br/>
 
 M. MARTIN Frédéric
 
@@ -37,4 +37,4 @@ CPV45234116 - **Travaux de construction de voies** <br/>
 Voirie et réseaux divers <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-623720208"> Fayolle et Fils</a>    30, rue de l'Egalité CS 3009 95232 Soisy sous Montmorency <br/>
+<a href="/entreprise-573/siren-623720208"> Fayolle et Fils</a>    30, rue de l'Egalité CS 3009 95232 Soisy sous Montmorency <br/>

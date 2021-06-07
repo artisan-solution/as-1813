@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-243300316"> BORDEAUX METROPOLE</a><br/>
+<a href="/acheteur-137/siren-243300316"> BORDEAUX METROPOLE</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV42410000 - **Matériel de levage et de manutention** <br/>
 Matériel de manutention <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-301331922"> Traction levage</a>      Canéjan <br/>
+<a href="/entreprise-544/siren-301331922"> Traction levage</a>      Canéjan <br/>

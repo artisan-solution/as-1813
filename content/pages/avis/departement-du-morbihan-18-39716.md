@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-225600014"> DEPARTEMENT DU MORBIHAN</a><br/>
+<a href="/acheteur-137/siren-225600014"> DEPARTEMENT DU MORBIHAN</a><br/>
 
 Département du Morbihan - DGFiM - DCP - service des marchés
 
@@ -38,4 +38,4 @@ Formation <br/>
 
 ### Attribution du Marché :
 Locminé formation - Bod'avel 56500 Moréac <br/>
-<a href="/entreprise-269/siren-792961617"> ASKORIA</a>    2 avenue du Bois Labbé CS 44238 35042 Rennes cedex <br/>
+<a href="/entreprise-576/siren-792961617"> ASKORIA</a>    2 avenue du Bois Labbé CS 44238 35042 Rennes cedex <br/>

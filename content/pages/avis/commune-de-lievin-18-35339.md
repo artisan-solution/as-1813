@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-216205104"> COMMUNE DE LIEVIN</a><br/>
+<a href="/acheteur-135/siren-216205104"> COMMUNE DE LIEVIN</a><br/>
 
 Service des Marchés Publics, Chef du Service des Marchés Publics
 
@@ -39,6 +39,6 @@ Mobilier urbain <br/>
 Signalisation <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-409065984"> LACROIX SIGNALISATION</a>    8 Impasse du Bourrelier - BP 30004 44801 SAINT HERBLAIN <br/>
-<a href="/entreprise-270/siren-811918895"> CHLORODIS</a>    2 rue d'Ennevelin 59242 TEMPLEUVE <br/>
-<a href="/entreprise-254/siren-313659161"> GIR</a>    81 rue Jean Baptiste Défernez - BP 1 62800 LIEVIN <br/>
+<a href="/entreprise-556/siren-409065984"> LACROIX SIGNALISATION</a>    8 Impasse du Bourrelier - BP 30004 44801 SAINT HERBLAIN <br/>
+<a href="/entreprise-578/siren-811918895"> CHLORODIS</a>    2 rue d'Ennevelin 59242 TEMPLEUVE <br/>
+<a href="/entreprise-545/siren-313659161"> GIR</a>    81 rue Jean Baptiste Défernez - BP 1 62800 LIEVIN <br/>

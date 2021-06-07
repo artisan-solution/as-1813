@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200030195"> METROPOLE NICE COTE D AZUR</a><br/>
+<a href="/acheteur-132/siren-200030195"> METROPOLE NICE COTE D AZUR</a><br/>
 
 Monsieur Le Président de la Métropole Nice Côte d'Azur
 
@@ -37,4 +37,4 @@ CPV80590000 - **Services d'aide pédagogique** <br/>
 Déchets non ménagers (prestations) <br/>
 
 ### Attribution du Marché :
-CENTRE DE DECOUVERTE DU MONDE MARIN - Base le l'Aigle Nautique 50 boulevard Franck Pilatte 06300 Nice <br/>
+<a href="/entreprise-559/siren-428753941"> CENTRE DE DECOUVERTE DU MONDE MARIN</a>    Base le l'Aigle Nautique 50 boulevard Franck Pilatte 06300 Nice <br/>

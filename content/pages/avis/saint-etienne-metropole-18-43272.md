@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-244200770"> SAINT-ETIENNE METROPOLE</a><br/>
+<a href="/acheteur-137/siren-244200770"> SAINT-ETIENNE METROPOLE</a><br/>
 
 
 
@@ -31,10 +31,10 @@ ST ETIENNE - Département 42 - Loire
 30/03/2018
 
 ##### Codes CPV concerné(s) :
+CPV44912400 - **Bordures** <br/>
+CPV45232410 - **Travaux d'assainissement** <br/>
 CPV45112000 - **Travaux de fouille et de terrassement** <br/>
 CPV45233120 - **Travaux de construction de routes** <br/>
-CPV45232410 - **Travaux d'assainissement** <br/>
-CPV44912400 - **Bordures** <br/>
 
 ##### Descripteurs :
 Voirie <br/>

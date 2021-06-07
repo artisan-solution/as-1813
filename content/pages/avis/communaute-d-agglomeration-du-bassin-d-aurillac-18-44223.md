@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-241500230"> COMMUNAUTE D AGGLOMERATION DU BASSIN D AURILLAC</a><br/>
+<a href="/acheteur-137/siren-241500230"> COMMUNAUTE D AGGLOMERATION DU BASSIN D AURILLAC</a><br/>
 
 
 
@@ -32,11 +32,11 @@ AURILLAC - Département 15 - Cantal
 
 ##### Codes CPV concerné(s) :
 CPV71322000 - **Services de conception technique pour la construction d'ouvrages de génie civil** <br/>
-CPV71000000 - **Services d'architecture, services de construction, services d'ingénierie et services d'inspection** <br/>
 CPV71313000 - **Services de conseil en ingénierie de l'environnement** <br/>
+CPV71000000 - **Services d'architecture, services de construction, services d'ingénierie et services d'inspection** <br/>
 
 ##### Descripteurs :
 Maîtrise d'oeuvre <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-490646395"> IRH Ingénieur Conseil</a>    190 rue Louise Labé CS 18001 69967 CHAPONNAY <br/>
+<a href="/entreprise-566/siren-490646395"> IRH Ingénieur Conseil</a>    190 rue Louise Labé CS 18001 69967 CHAPONNAY <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-410638100"> ETS PUBLIC AMENAGEME MANTOIS SEINE AVAL</a><br/>
+<a href="/acheteur-139/siren-410638100"> ETS PUBLIC AMENAGEME MANTOIS SEINE AVAL</a><br/>
 
 
 
@@ -38,7 +38,7 @@ CPV71400000 - **Services d'urbanisme et d'architecture paysagère** <br/>
 Maîtrise d'oeuvre <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-749915963"> INUITS</a>    21 rue du Tunnet 75019 Paris <br/>
-<a href="/entreprise-259/siren-401503792"> ARCADIS</a>    18 rue Troyon 92316 Sevres <br/>
+<a href="/entreprise-574/siren-749915963"> INUITS</a>    21 rue du Tunnet 75019 Paris <br/>
+<a href="/entreprise-555/siren-401503792"> ARCADIS</a>    18 rue Troyon 92316 Sevres <br/>
 Agence Nicolas Michelin , Associés - 9 cour des petites écuries 75010 Paris <br/>
-<a href="/entreprise-264/siren-492275631"> VIZEA</a>    73 avenue Pierre Larousse 92240 Malakoff <br/>
+<a href="/entreprise-566/siren-492275631"> VIZEA</a>    73 avenue Pierre Larousse 92240 Malakoff <br/>

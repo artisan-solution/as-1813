@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110090016"> MINISTERE DES ARMEES</a><br/>
+<a href="/acheteur-131/siren-110090016"> MINISTERE DES ARMEES</a><br/>
 
 Directeur de l'AIA de Clermont-Ferrand
 
@@ -36,4 +36,4 @@ CPV09310000 - **Électricité** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-562047050"> TRESCAL</a>    169 avenue des BousquetsZAC des Bousquets 83390 Cuers <br/>
+<a href="/entreprise-572/siren-562047050"> TRESCAL</a>    169 avenue des BousquetsZAC des Bousquets 83390 Cuers <br/>

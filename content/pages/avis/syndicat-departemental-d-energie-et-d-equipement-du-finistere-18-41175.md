@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-252901145"> SYNDICAT DEPARTEMENTAL D ENERGIE ET D EQUIPEMENT DU FINISTERE</a><br/>
+<a href="/acheteur-137/siren-252901145"> SYNDICAT DEPARTEMENTAL D ENERGIE ET D EQUIPEMENT DU FINISTERE</a><br/>
 
 
 
@@ -32,18 +32,18 @@ Quimper - Département 29 - Finistère
 
 ##### Codes CPV concerné(s) :
 CPV45316110 - **Installation de matériel d'éclairage public** <br/>
-CPV34993000 - **Éclairage public** <br/>
 CPV50232000 - **Entretien d'installations d'éclairage public et de feux de signalisation** <br/>
+CPV34993000 - **Éclairage public** <br/>
 
 ##### Descripteurs :
 Eclairage public <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-268/siren-775664873"> BOUYGUES Energies et Services</a>    ZAC de kergaradec12 rue F. Forest 29802 BREST cedex 9 <br/>
-<a href="/entreprise-258/siren-388772105"> EIFFAGE Energie Maine Bretagne</a>    ZI de Keriven19 bis rue M. Berthelot 29600 SAINT MARTIN DES CHAMPS <br/>
-<a href="/entreprise-260/siren-414799296"> INEO Atlantique</a>    ZA de Mescoden7 rue G. Guynemer 29260 Ploudaniel <br/>
+<a href="/entreprise-574/siren-775664873"> BOUYGUES Energies et Services</a>    ZAC de kergaradec12 rue F. Forest 29802 BREST cedex 9 <br/>
+<a href="/entreprise-553/siren-388772105"> EIFFAGE Energie Maine Bretagne</a>    ZI de Keriven19 bis rue M. Berthelot 29600 SAINT MARTIN DES CHAMPS <br/>
+<a href="/entreprise-557/siren-414799296"> INEO Atlantique</a>    ZA de Mescoden7 rue G. Guynemer 29260 Ploudaniel <br/>
 Réseaux Sud Bretagne - 17 rue J. AuriolKervidanou 1 29300 QUIMPERLE <br/>
-<a href="/entreprise-258/siren-388772105"> EIFFAGE Energie Maine Bretagne</a>    ZI de Keriven19bis rue M. Berthelot 29600 SAINT MARTIN DES CHAMPS <br/>
-<a href="/entreprise-255/siren-329778104"> LE DU TP</a>    La ValléeCS 40019 22170 CHATELAUDREN <br/>
+<a href="/entreprise-553/siren-388772105"> EIFFAGE Energie Maine Bretagne</a>    ZI de Keriven19bis rue M. Berthelot 29600 SAINT MARTIN DES CHAMPS <br/>
+<a href="/entreprise-547/siren-329778104"> LE DU TP</a>    La ValléeCS 40019 22170 CHATELAUDREN <br/>
 TPES - ZA de Menez Bos 29590 SAINT SEGAL <br/>
 CITEOS - 54 avenue de Keradennec 29337 QUIMPER <br/>

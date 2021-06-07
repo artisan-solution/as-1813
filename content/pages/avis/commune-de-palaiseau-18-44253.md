@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219104775"> COMMUNE DE PALAISEAU</a><br/>
+<a href="/acheteur-136/siren-219104775"> COMMUNE DE PALAISEAU</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV48000000 - **Logiciels et systèmes d'information** <br/>
 Logiciel <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-351421300"> ARPEGE</a>    13 rue de la Loire CS 23619 44236 SAINT SEBASTIEN SUR LOIRE <br/>
+<a href="/entreprise-550/siren-351421300"> ARPEGE</a>    13 rue de la Loire CS 23619 44236 SAINT SEBASTIEN SUR LOIRE <br/>

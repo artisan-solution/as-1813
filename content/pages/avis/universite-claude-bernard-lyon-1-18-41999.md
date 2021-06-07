@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-196917744"> UNIVERSITE CLAUDE BERNARD LYON 1</a><br/>
+<a href="/acheteur-132/siren-196917744"> UNIVERSITE CLAUDE BERNARD LYON 1</a><br/>
 
 
 
@@ -30,9 +30,9 @@ VILLEURBANNE - Département 69 - Rhône
 28/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV42992100 - **Cage de Faraday** <br/>
 CPV42992300 - **Absorbant électromagnétique** <br/>
 CPV42992200 - **Chambre anéchoïde** <br/>
+CPV42992100 - **Cage de Faraday** <br/>
 
 ##### Descripteurs :
 Abris <br/>

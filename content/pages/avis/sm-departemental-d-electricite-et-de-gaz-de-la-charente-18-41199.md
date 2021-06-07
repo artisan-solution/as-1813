@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-251600060"> SM DEPARTEMENTAL D'ELECTRICITE ET DE GAZ DE LA CHARENTE</a><br/>
+<a href="/acheteur-137/siren-251600060"> SM DEPARTEMENTAL D'ELECTRICITE ET DE GAZ DE LA CHARENTE</a><br/>
 
 Président
 
@@ -36,4 +36,4 @@ CPV71300000 - **Services d'ingénierie** <br/>
 Assistance à maîtrise d'ouvrage <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-266/siren-519945810"> SARL LE CALOCH CONSULTANT</a>    66 rue Jean Baptiste Lebas 59910 BONDUES <br/>
+<a href="/entreprise-570/siren-519945810"> SARL LE CALOCH CONSULTANT</a>    66 rue Jean Baptiste Lebas 59910 BONDUES <br/>

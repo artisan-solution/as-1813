@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200068930"> CC FUMEL VALLEE DU LOT</a><br/>
+<a href="/acheteur-133/siren-200068930"> CC FUMEL VALLEE DU LOT</a><br/>
 
 
 
@@ -31,8 +31,8 @@ FUMEL - Département 47 - Lot-et-Garonne
 29/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV09134210 - **Carburant diesel (02)** <br/>
 CPV09135100 - **Fioul domestique** <br/>
+CPV09134210 - **Carburant diesel (02)** <br/>
 
 ##### Descripteurs :
 Carburant, hydrocarbure <br/>

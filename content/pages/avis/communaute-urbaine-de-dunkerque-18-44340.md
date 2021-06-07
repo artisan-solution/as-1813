@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-245900428"> COMMUNAUTE URBAINE DE DUNKERQUE</a><br/>
+<a href="/acheteur-137/siren-245900428"> COMMUNAUTE URBAINE DE DUNKERQUE</a><br/>
 
 
 
@@ -36,4 +36,4 @@ DUNKERQUE - Département 59 - Nord
 Informatique (maintenance serveurs et réseaux) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-498765759"> COSMOS CONSULTING</a>    355, rue Albert EinsteinLe Myaris - Bâtiment E 13290 AIX EN PROVENCE <br/>
+<a href="/entreprise-567/siren-498765759"> COSMOS CONSULTING</a>    355, rue Albert EinsteinLe Myaris - Bâtiment E 13290 AIX EN PROVENCE <br/>

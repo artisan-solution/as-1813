@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-218300507"> COMMUNE DE DRAGUIGNAN</a><br/>
+<a href="/acheteur-136/siren-218300507"> COMMUNE DE DRAGUIGNAN</a><br/>
 
 Monsieur le Maire
 

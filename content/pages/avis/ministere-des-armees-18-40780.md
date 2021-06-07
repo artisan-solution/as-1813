@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110090016"> MINISTERE DES ARMEES</a><br/>
+<a href="/acheteur-131/siren-110090016"> MINISTERE DES ARMEES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ Location (matériels) <br/>
 Véhicules <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-300571049"> PETIT FORESTIER LOCATION</a>    7 rue Eugène Bourdon - ZI de Kergaradec - 29490 Guipavas <br/>
+<a href="/entreprise-544/siren-300571049"> PETIT FORESTIER LOCATION</a>    7 rue Eugène Bourdon - ZI de Kergaradec - 29490 Guipavas <br/>

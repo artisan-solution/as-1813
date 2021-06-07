@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-210600888"> COMMUNE DE NICE</a><br/>
+<a href="/acheteur-134/siren-210600888"> COMMUNE DE NICE</a><br/>
 
 
 
@@ -36,5 +36,5 @@ CPV39812100 - **Produits d'entretien des sols** <br/>
 Produits d'entretien <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-559500541"> ORRU</a>    RN97 - CHEMIN DES PLANTADES 83190 LA GARDE <br/>
-DIVERSEY - 201 RUE CARNOT - PERIGARES A 94120 FONTENAY SOUS BOIS <br/>
+<a href="/entreprise-572/siren-559500541"> ORRU</a>    RN97 - CHEMIN DES PLANTADES 83190 LA GARDE <br/>
+<a href="/entreprise-557/siren-412668543"> DIVERSEY</a>    201 RUE CARNOT - PERIGARES A 94120 FONTENAY SOUS BOIS <br/>

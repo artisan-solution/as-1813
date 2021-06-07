@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-221500010"> DEPARTEMENT DU CANTAL</a><br/>
+<a href="/acheteur-137/siren-221500010"> DEPARTEMENT DU CANTAL</a><br/>
 
 
 
@@ -39,6 +39,6 @@ Carburant, hydrocarbure <br/>
 
 ### Attribution du Marché :
 CARREFOUR MARKET MAURIAC SAS MAUDIS - Route d'Aurillac MARSALOU 15200 MAURIAC <br/>
-<a href="/entreprise-267/siren-542034921"> TOTAL MARKETING FRANCE</a>    562, AV DU PARC DE L'ILE TOT 008 - case courrier 12 92029 NANTERRE CEDEX <br/>
-<a href="/entreprise-268/siren-777347386"> PICOTY SA</a>    Rue André et Guy PICOTY BP 1 23300 LA SOUTERRAINE <br/>
+<a href="/entreprise-572/siren-542034921"> TOTAL MARKETING FRANCE</a>    562, AV DU PARC DE L'ILE TOT 008 - case courrier 12 92029 NANTERRE CEDEX <br/>
+<a href="/entreprise-574/siren-777347386"> PICOTY SA</a>    Rue André et Guy PICOTY BP 1 23300 LA SOUTERRAINE <br/>
 CHAMPS POIDS LOURD GARAGE - 15, Route Bort 15270 CHAMPS SUR TARENTAINE MARCHAL <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-231300021"> REGION PROVENCE-ALPES-COTE D'AZUR</a><br/>
+<a href="/acheteur-137/siren-231300021"> REGION PROVENCE-ALPES-COTE D'AZUR</a><br/>
 
 GELLE LACROIX Laurent, Directeur Général
 
@@ -37,4 +37,4 @@ CPV45261420 - **Travaux d'étanchéification** <br/>
 Etanchéité <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-599500675"> SAPE</a>    750 Avenue Joliot Curie - La Garde BP 020 ZI Toulon Est 83087 TOULON CEDEX 09 <br/>
+<a href="/entreprise-573/siren-599500675"> SAPE</a>    750 Avenue Joliot Curie - La Garde BP 020 ZI Toulon Est 83087 TOULON CEDEX 09 <br/>

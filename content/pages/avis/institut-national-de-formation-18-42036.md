@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-815158712"> INSTITUT NATIONAL DE FORMATION</a><br/>
+<a href="/acheteur-140/siren-815158712"> INSTITUT NATIONAL DE FORMATION</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV80530000 - **Services de formation professionnelle** <br/>
 Formation <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-439734005"> SOFIS</a>    7 RUE DE TOG RU 56550 Belz <br/>
+<a href="/entreprise-561/siren-439734005"> SOFIS</a>    7 RUE DE TOG RU 56550 Belz <br/>

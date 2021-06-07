@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-228400016"> DEPARTEMENT DU VAUCLUSE</a><br/>
+<a href="/acheteur-137/siren-228400016"> DEPARTEMENT DU VAUCLUSE</a><br/>
 
 
 
@@ -37,12 +37,12 @@ CPV85310000 - **Services d'action sociale** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-483581260"> LA CLEF DES CHAMPS</a>    26 bd PONS 84800 Isle sur la Sorgue <br/>
+<a href="/entreprise-565/siren-483581260"> LA CLEF DES CHAMPS</a>    26 bd PONS 84800 Isle sur la Sorgue <br/>
 COUP DE POUCE - 57 cours de Victor HUGO 84600 Valréas <br/>
 IIDEO FORMATION - 188 Avenue de Viton 84400 APT <br/>
 Centre ABC - 1 rue Ninon Vallin 84000 Avignon <br/>
 UNIVERSITE POPULAIRE DU VENTOUX - 214 bd du Marechal LECLERC 84200 Carpentras <br/>
-<a href="/entreprise-261/siren-438350555"> PIAF ACCUEIL</a>    12 rue de Provence 84100 Orange <br/>
-<a href="/entreprise-263/siren-483581260"> LA CLEF DES CHAMPS</a>    26 bd Paul PONS 84800 ISLE SUR LA SORGUE <br/>
-<a href="/entreprise-254/siren-325505659"> CRECAS FORMATION</a>    7 impasse Trial 84000 Avignon <br/>
+<a href="/entreprise-560/siren-438350555"> PIAF ACCUEIL</a>    12 rue de Provence 84100 Orange <br/>
+<a href="/entreprise-565/siren-483581260"> LA CLEF DES CHAMPS</a>    26 bd Paul PONS 84800 ISLE SUR LA SORGUE <br/>
+<a href="/entreprise-546/siren-325505659"> CRECAS FORMATION</a>    7 impasse Trial 84000 AVIGNON <br/>
 PIAF ACCEUIL - 12 rue de Provence 84100 Orange <br/>

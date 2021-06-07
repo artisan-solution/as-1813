@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-196402515"> UNIVERSITE DE PAU ET DU PAYS DE L'ADOUR</a><br/>
+<a href="/acheteur-132/siren-196402515"> UNIVERSITE DE PAU ET DU PAYS DE L'ADOUR</a><br/>
 
 
 
@@ -38,4 +38,4 @@ CPV71221000 - **Services d'architecte pour les bâtiments** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-Espagno , Milani Architectes Associés - 18 rue de Tivoli 31100 TOULOUSE <br/>
+<a href="/entreprise-552/siren-382336964"> Espagno , Milani Architectes Associés</a>    18 rue de Tivoli 31100 TOULOUSE <br/>

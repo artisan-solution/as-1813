@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130015506"> UNIVERSITE DE LORRAINE</a><br/>
+<a href="/acheteur-132/siren-130015506"> UNIVERSITE DE LORRAINE</a><br/>
 
 
 
@@ -30,12 +30,12 @@ Nancy - Département 54 - Meurthe-et-Moselle
 28/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV50312000 - **Maintenance et réparation de matériel informatique** <br/>
 CPV50312310 - **Maintenance de matériel de réseau informatique** <br/>
+CPV50312000 - **Maintenance et réparation de matériel informatique** <br/>
 
 ##### Descripteurs :
 Maintenance <br/>
 
 ### Attribution du Marché :
 INTERACT SYSTEMS NANCY (ENSEIGNE AXIANS) - 8 rue du Bois de la Champelle 54500 Vandoeuvre lès nancy <br/>
-<a href="/entreprise-260/siren-424982650"> SCC FRANCE</a>    93 rue des Trois Fontanot 92744 Nanterre <br/>
+<a href="/entreprise-559/siren-424982650"> SCC FRANCE</a>    93 rue des Trois Fontanot 92744 Nanterre <br/>

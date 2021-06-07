@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-210600888"> COMMUNE DE NICE</a><br/>
+<a href="/acheteur-134/siren-210600888"> COMMUNE DE NICE</a><br/>
 
 
 
@@ -36,4 +36,4 @@ CPV63510000 - **Services d'agences de voyages et services similaires** <br/>
 Voyage <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-272/siren-956800700"> SEEMORE TOURIST SERVICE</a>    11 rue du congrès 06000 Nice <br/>
+<a href="/entreprise-582/siren-956800700"> SEEMORE TOURIST SERVICE</a>    11 rue du congrès 06000 Nice <br/>

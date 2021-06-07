@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200063402"> COMMUNE D'ANNECY</a><br/>
+<a href="/acheteur-133/siren-200063402"> COMMUNE D'ANNECY</a><br/>
 
 Monsieur le Maire
 
@@ -31,8 +31,8 @@ ANNECY - Département 74 - Haute-Savoie
 27/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV32323500 - **Système de surveillance vidéo** <br/>
 CPV45314310 - **Installation de câblage** <br/>
+CPV32323500 - **Système de surveillance vidéo** <br/>
 
 ##### Descripteurs :
 Câblage <br/>
@@ -40,5 +40,5 @@ Matériel de transmission <br/>
 Télésurveillance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-482375250"> EBOO SOLUTIONS</a>    11 avenue des vieux Moulins 74000 ANNECY <br/>
-<a href="/entreprise-257/siren-384583019"> PERRIN ELECTRIC</a>    20 route de la salle 74960 CRAN GEVRIER <br/>
+<a href="/entreprise-564/siren-482375250"> EBOO SOLUTIONS</a>    11 avenue des vieux Moulins 74000 ANNECY <br/>
+<a href="/entreprise-552/siren-384583019"> PERRIN ELECTRIC</a>    20 route de la salle 74960 CRAN GEVRIER <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-196917744"> UNIVERSITE CLAUDE BERNARD LYON 1</a><br/>
+<a href="/acheteur-132/siren-196917744"> UNIVERSITE CLAUDE BERNARD LYON 1</a><br/>
 
 
 
@@ -30,12 +30,12 @@ VILLEURBANNE - Département 69 - Rhône
 29/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV50730000 - **Services de réparation et d'entretien de groupes de réfrigération** <br/>
 CPV50720000 - **Services de réparation et d'entretien de chauffage central** <br/>
+CPV50730000 - **Services de réparation et d'entretien de groupes de réfrigération** <br/>
 
 ##### Descripteurs :
 Maintenance <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-056800659"> SNEF</a>    Agence de Lyon - ZAC du Chêne - 11 allée Général Benoist 69673 Bron cedex <br/>
+<a href="/entreprise-543/siren-056800659"> SNEF</a>    Agence de lyon - ZAC du Chêne - 11 allée Général Benoist 69673 Bron cedex <br/>

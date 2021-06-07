@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219106929"> COMMUNE DES ULIS</a><br/>
+<a href="/acheteur-136/siren-219106929"> COMMUNE DES ULIS</a><br/>
 
 
 
@@ -31,8 +31,8 @@ Les ulis - Département 91 - Essonne
 27/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV90911300 - **Services de nettoyage de vitres** <br/>
 CPV90910000 - **Services de nettoyage** <br/>
+CPV90911300 - **Services de nettoyage de vitres** <br/>
 
 ##### Descripteurs :
 Abris <br/>

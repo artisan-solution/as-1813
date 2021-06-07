@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215902719"> COMMUNE DE GRANDE SYNTHE</a><br/>
+<a href="/acheteur-135/siren-215902719"> COMMUNE DE GRANDE SYNTHE</a><br/>
 
 
 
@@ -37,8 +37,8 @@ CPV34913000 - **Pièces détachées diverses** <br/>
 Matériel agricole, horticole <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-257/siren-384012688"> MAPP VOTRE MATERIEL DE JARDIN</a>    823 Avenue de l'épinette 59113 SECLIN <br/>
-<a href="/entreprise-261/siren-429027907"> PATOUX EQUIPAGRI</a>    3 Rue Hennelle 62136 RICHEBOURG <br/>
+<a href="/entreprise-552/siren-384012688"> MAPP VOTRE MATERIEL DE JARDIN</a>    823 Avenue de l'épinette 59113 SECLIN <br/>
+<a href="/entreprise-559/siren-429027907"> PATOUX EQUIPAGRI</a>    3 Rue Hennelle 62136 RICHEBOURG <br/>
 GALBY AGRO SERVICE - 23 Faubourg de Cassel 59380 QUAEDYPRE <br/>
-<a href="/entreprise-267/siren-576780019"> MILLAMON</a>    28 Bis Grand Rue 62129 THEROUANNE <br/>
-<a href="/entreprise-257/siren-383888187"> EUROPE SERVICE</a>    Parc Activités de JonquièreAvenue du Garric 15000 AURILLAC <br/>
+<a href="/entreprise-573/siren-576780019"> MILLAMON</a>    28 Bis Grand Rue 62129 THEROUANNE <br/>
+<a href="/entreprise-552/siren-383888187"> EUROPE SERVICE</a>    Parc Activités de JonquièreAvenue du Garric 15000 AURILLAC <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-242900314"> BREST METROPOLE</a><br/>
+<a href="/acheteur-137/siren-242900314"> BREST METROPOLE</a><br/>
 
 
 
@@ -38,6 +38,6 @@ Electricité, gaz (fourniture) <br/>
 
 ### Attribution du Marché :
 GAZ DE BORDEAUX - 6 Place Ravezies 33075 Bordeaux Cedex <br/>
-<a href="/entreprise-267/siren-542107651"> ENGIE</a>    1 Place Samuel de Champlain 92400 Courbevoie <br/>
-<a href="/entreprise-269/siren-802053330"> REDEO ENERGIES</a>    Bureau 503 P.A La Niel 4 rue Pont de la Niel 56300 Pontivy <br/>
+<a href="/entreprise-572/siren-542107651"> ENGIE</a>    1 Place Samuel de Champlain 92400 Courbevoie <br/>
+<a href="/entreprise-577/siren-802053330"> REDEO ENERGIES</a>    Bureau 503 P.A La Niel 4 rue Pont de la Niel 56300 Pontivy <br/>
 TOTAL ENERGIE GAZ - 2 PLACE JEAN MILLIER - LA DEFENSE 6 92400 Courbevoie <br/>

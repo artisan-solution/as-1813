@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-211301064"> COMMUNE DE SEPTEMES LES VALLONS</a><br/>
+<a href="/acheteur-134/siren-211301064"> COMMUNE DE SEPTEMES LES VALLONS</a><br/>
 
 MOLINO André, Monsieur le Maire
 
@@ -38,5 +38,5 @@ Isolation <br/>
 Menuiserie <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-534022389"> CMT</a>    15D - ZAC LA BILLONNE 13170 LES PENNES MIRABEAU <br/>
+<a href="/entreprise-572/siren-534022389"> CMT</a>    15D - ZAC LA BILLONNE 13170 LES PENNES MIRABEAU <br/>
 ALU BELLA STORE - 142 AVENUE DU 8 MAI 1945 13240 SEPTEMES LES VALLONS <br/>

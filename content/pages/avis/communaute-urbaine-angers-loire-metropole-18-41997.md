@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-244900015"> COMMUNAUTE URBAINE ANGERS LOIRE METROPOLE</a><br/>
+<a href="/acheteur-137/siren-244900015"> COMMUNAUTE URBAINE ANGERS LOIRE METROPOLE</a><br/>
 
 
 
@@ -31,22 +31,22 @@ ANGERS - Département 49 - Maine-et-Loire
 31/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV90500000 - **Services liés aux déchets et aux ordures** <br/>
-CPV90513200 - **Services d'élimination de déchets solides urbains** <br/>
-CPV90513000 - **Services de traitement et d'élimination des ordures ménagères et des déchets non dangereux** <br/>
-CPV09211100 - **Huiles pour moteurs** <br/>
 CPV35111320 - **Extincteurs portatifs** <br/>
-CPV31421000 - **Batteries au plomb** <br/>
 CPV31440000 - **Batteries** <br/>
+CPV31421000 - **Batteries au plomb** <br/>
+CPV09211100 - **Huiles pour moteurs** <br/>
+CPV90513000 - **Services de traitement et d'élimination des ordures ménagères et des déchets non dangereux** <br/>
+CPV90513200 - **Services d'élimination de déchets solides urbains** <br/>
+CPV90500000 - **Services liés aux déchets et aux ordures** <br/>
 
 ##### Descripteurs :
 Collecte sélective <br/>
 Ordures ménagères (prestations) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-310188420"> CHIMIREC</a>     35133 JAVENE <br/>
-<a href="/entreprise-254/siren-312347156"> DUFEU JACKY</a>     49490 LASSE <br/>
+<a href="/entreprise-545/siren-310188420"> CHIMIREC</a>     35133 JAVENE <br/>
+<a href="/entreprise-545/siren-312347156"> DUFEU JACKY</a>     49490 LASSE <br/>
 GRANDJOUAN PAUL SACO -  49137 LES PONTS DE CE <br/>
-<a href="/entreprise-256/siren-344263702"> SUEZ RV OUEST</a>     44300 NANTES <br/>
-<a href="/entreprise-257/siren-383482635"> AFM RECYCLAGE</a>     49240 AVRILLE <br/>
+<a href="/entreprise-549/siren-344263702"> SUEZ RV OUEST</a>     44300 NANTES <br/>
+<a href="/entreprise-552/siren-383482635"> AFM RECYCLAGE</a>     49240 AVRILLE <br/>
 GRANDJOUAN PAL SACO -  49137 LES PONTS DE CE <br/>

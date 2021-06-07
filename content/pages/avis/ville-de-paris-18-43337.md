@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217500016"> VILLE DE PARIS</a><br/>
+<a href="/acheteur-136/siren-217500016"> VILLE DE PARIS</a><br/>
 
 M. WAQUET Calixte, Adjoint au Chef de la SLA 19
 
@@ -37,4 +37,4 @@ CPV45454100 - **Travaux de réfection** <br/>
 Peinture (travaux) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-266/siren-525256921"> WSL BATIMENT</a>    12 rue Simone Weil 75013 Paris <br/>
+<a href="/entreprise-571/siren-525256921"> WSL BATIMENT</a>    12 rue Simone Weil 75013 Paris <br/>

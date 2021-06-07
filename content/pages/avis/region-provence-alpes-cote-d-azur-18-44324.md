@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-231300021"> REGION PROVENCE-ALPES-COTE D'AZUR</a><br/>
+<a href="/acheteur-137/siren-231300021"> REGION PROVENCE-ALPES-COTE D'AZUR</a><br/>
 
 GELLE LACROIX Laurent, Directeur Général
 
@@ -37,8 +37,8 @@ CPV45210000 - **Travaux de construction de bâtiments** <br/>
 Tous corps d'état <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-429811284"> INEO PROVENCE ET COTE D'AZUR</a>    205 Rue Georges Claude BP 241000 - Z.I 13100 AIX-EN-PROVENCE <br/>
+<a href="/entreprise-559/siren-429811284"> INEO PROVENCE ET COTE D'AZUR</a>    205 Rue Georges Claude BP 241000 - Z.I 13100 AIX-EN-PROVENCE <br/>
 BMH SERVICES - ZA Pont la Lame 05100 PUY SAINT ANDRE <br/>
-<a href="/entreprise-271/siren-831557244"> ART HABITAT</a>    25 BIS Avenue François Mitterand 05000 GAP <br/>
+<a href="/entreprise-580/siren-831557244"> ART HABITAT</a>    25 BIS Avenue François Mitterand 05000 GAP <br/>
 Société ESCALPEZ ANDRE , FILS - ZA Les Iscles 04140 SEYNE LES ALPES <br/>
-<a href="/entreprise-271/siren-828755983"> EITB PROVENCE</a>    Allée Gabriel Lippmann ZI ST Maurice 04100 MANOSQUE <br/>
+<a href="/entreprise-580/siren-828755983"> EITB PROVENCE</a>    Allée Gabriel Lippmann ZI ST Maurice 04100 MANOSQUE <br/>

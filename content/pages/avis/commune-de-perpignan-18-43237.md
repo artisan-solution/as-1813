@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-216601369"> COMMUNE DE PERPIGNAN</a><br/>
+<a href="/acheteur-135/siren-216601369"> COMMUNE DE PERPIGNAN</a><br/>
 
 PUJOL Jean-Marc, Maire
 
@@ -37,4 +37,4 @@ CPV45311200 - **Travaux d'installations électriques** <br/>
 Matériel électrique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-255/siren-337966840"> ASPIR'ELEC</a>    18 ZA Grange Neuve 38790 DIEMOZ <br/>
+<a href="/entreprise-548/siren-337966840"> ASPIR'ELEC</a>    18 ZA Grange Neuve 38790 DIEMOZ <br/>

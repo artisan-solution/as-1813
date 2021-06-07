@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-130005481"> POLE EMPLOI</a><br/>
+<a href="/acheteur-131/siren-130005481"> POLE EMPLOI</a><br/>
 
 
 
@@ -31,11 +31,11 @@ Montreuil - Département 93 - Seine-Saint-Denis
 29/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV32420000 - **Matériel de réseau** <br/>
-CPV32418000 - **Réseau radio** <br/>
 CPV32410000 - **Réseau local** <br/>
-CPV32424000 - **Infrastructure de réseau** <br/>
+CPV32418000 - **Réseau radio** <br/>
+CPV32420000 - **Matériel de réseau** <br/>
 CPV72710000 - **Services de réseau local** <br/>
+CPV32424000 - **Infrastructure de réseau** <br/>
 
 ##### Descripteurs :
 Informatique (matériel) <br/>

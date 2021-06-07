@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-110090016"> MINISTERE DES ARMEES</a><br/>
+<a href="/acheteur-131/siren-110090016"> MINISTERE DES ARMEES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV45315300 - **Installations d'alimentation électrique** <br/>
 Maintenance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-308250570"> ELECTRICITE INDUSTRIELLE JP FAUCHE</a>    1 montée de Saint-Ménet - Espace Valentine Bât A 13011 MARSEILLE <br/>
+<a href="/entreprise-544/siren-308250570"> ELECTRICITE INDUSTRIELLE JP FAUCHE</a>    1 montée de Saint-Ménet - Espace Valentine Bât A 13011 MARSEILLE <br/>

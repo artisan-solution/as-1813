@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-258302744"> SYND MIXTE DEPART D'ELECTRICITE DU VAR</a><br/>
+<a href="/acheteur-138/siren-258302744"> SYND MIXTE DEPART D'ELECTRICITE DU VAR</a><br/>
 
 
 
@@ -37,5 +37,5 @@ CPV50232000 - **Entretien d'installations d'éclairage public et de feux de sign
 Maintenance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-253/siren-072802689"> EGE NOEL BERANGER</a>    12 avenue Claude Antonetti - BP 37 13713 LA PENNE SUR HUVEAUNE <br/>
-<a href="/entreprise-253/siren-072802689"> EGE NOEL BERANGER</a>    12 avenue Claude Antonetti -BP 37 13713 LA PENNE SUR HUVEAUNE <br/>
+<a href="/entreprise-543/siren-072802689"> EGE NOEL BERANGER</a>    12 avenue Claude Antonetti - BP 37 13713 LA PENNE SUR HUVEAUNE <br/>
+<a href="/entreprise-543/siren-072802689"> EGE NOEL BERANGER</a>    12 avenue Claude Antonetti -BP 37 13713 LA PENNE SUR HUVEAUNE <br/>

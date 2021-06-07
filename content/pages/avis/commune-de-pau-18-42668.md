@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-216404459"> COMMUNE DE PAU</a><br/>
+<a href="/acheteur-135/siren-216404459"> COMMUNE DE PAU</a><br/>
 
 
 
@@ -39,5 +39,5 @@ CPV44211000 - **Bâtiments préfabriqués** <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-261/siren-434555009"> Sge</a>    1 route de Targon 33670 Blésignac <br/>
+<a href="/entreprise-560/siren-434555009"> Sge</a>    1 route de Targon 33670 Blésignac <br/>
 Ulma - 16 Avenue Normandie Niemen 64140 Lons <br/>

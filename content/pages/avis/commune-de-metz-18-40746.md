@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215704636"> COMMUNE DE METZ</a><br/>
+<a href="/acheteur-135/siren-215704636"> COMMUNE DE METZ</a><br/>
 
 
 
@@ -37,4 +37,4 @@ Panneaux <br/>
 Signalisation <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-272/siren-959502345"> SIGNAUX GIROD</a>    881 routes des fontaines - BP 30004 Bellefontaine 39401 MOREZ CEDEX <br/>
+<a href="/entreprise-582/siren-959502345"> SIGNAUX GIROD</a>    881 routes des fontaines - BP 30004 Bellefontaine 39401 MOREZ CEDEX <br/>

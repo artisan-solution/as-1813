@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-212706816"> COMMUNE DE VERNON</a><br/>
+<a href="/acheteur-134/siren-212706816"> COMMUNE DE VERNON</a><br/>
 
 
 
@@ -40,7 +40,7 @@ Métallerie <br/>
 Peinture (travaux) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-453972549"> T2C</a>    1 ZAC les Champs Chouette473 rue des Manets 76520 FRANQUEVILLE SAINT PIERRE <br/>
-<a href="/entreprise-260/siren-423622190"> SNM</a>    275 RUE VERTE 14790 MOUEN <br/>
+<a href="/entreprise-563/siren-453972549"> T2C</a>    1 ZAC les Champs Chouette473 rue des Manets 76520 FRANQUEVILLE SAINT PIERRE <br/>
+<a href="/entreprise-559/siren-423622190"> SNM</a>    275 RUE VERTE 14790 MOUEN <br/>
 DOLPIERRE - BP 69 Village des Artisans Le Haut du Val 27110 CROSVILLE LA VIEILLE <br/>
 INSTALL PRO ELEC - 40 AVENUE ROBERT HOOKE 76800 SAINT ETIENNE DU ROUVRAY <br/>

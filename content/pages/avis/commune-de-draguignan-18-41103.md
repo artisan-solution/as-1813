@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-218300507"> COMMUNE DE DRAGUIGNAN</a><br/>
+<a href="/acheteur-136/siren-218300507"> COMMUNE DE DRAGUIGNAN</a><br/>
 
 Monsieur le Maire
 
@@ -37,4 +37,4 @@ CPV34928471 - **Matériel de signalisation** <br/>
 Signalisation <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-259/siren-409065984"> LACROIX SIGNALISATION</a>    8 Impasse le Bourrelier 44801 SAINT HERBLAIN <br/>
+<a href="/entreprise-556/siren-409065984"> LACROIX SIGNALISATION</a>    8 Impasse le Bourrelier 44801 SAINT HERBLAIN <br/>

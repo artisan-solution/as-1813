@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-215903501"> COMMUNE DE LILLE</a><br/>
+<a href="/acheteur-135/siren-215903501"> COMMUNE DE LILLE</a><br/>
 
 
 
@@ -31,14 +31,14 @@ LILLE - Département 59 - Nord
 31/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV45112500 - **Travaux de terrassement** <br/>
-CPV45111100 - **Travaux de démolition** <br/>
 CPV45262660 - **Travaux de désamiantage** <br/>
 CPV45111000 - **Travaux de démolition, travaux de préparation et de dégagement de chantier** <br/>
+CPV45112500 - **Travaux de terrassement** <br/>
+CPV45111100 - **Travaux de démolition** <br/>
 
 ##### Descripteurs :
 Démolition <br/>
 
 ### Attribution du Marché :
 Lorban , Cie SAS - 46 rue des Chasseurs 59570 La Longueville <br/>
-<a href="/entreprise-266/siren-518532601"> Verdipole</a>    Port Fluvial 1ère Avenue - Batiment L 59000 LILLE <br/>
+<a href="/entreprise-570/siren-518532601"> Verdipole</a>    Port Fluvial 1ère Avenue - Batiment L 59000 LILLE <br/>

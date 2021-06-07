@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200049922"> SI ENERGIES COTE DOR</a><br/>
+<a href="/acheteur-133/siren-200049922"> SI ENERGIES COTE DOR</a><br/>
 
 M. le Président
 
@@ -38,4 +38,4 @@ Etude <br/>
 Electricité, gaz (fourniture) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-266/siren-528048010"> AEC (Audit Expertise Conseil)</a>    18, rue de la Pépinière 75008 PARIS <br/>
+<a href="/entreprise-571/siren-528048010"> AEC (Audit Expertise Conseil)</a>    18, rue de la Pépinière 75008 PARIS <br/>

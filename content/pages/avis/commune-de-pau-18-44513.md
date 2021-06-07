@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-216404459"> COMMUNE DE PAU</a><br/>
+<a href="/acheteur-135/siren-216404459"> COMMUNE DE PAU</a><br/>
 
 BAYROU FRANCOIS, MAIRE
 
@@ -37,4 +37,4 @@ CPV24311900 - **Chlore** <br/>
 Produits d'entretien <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-542920087"> GAZECHIM</a>    15, Rue Henri Brisson 34500 Béziers <br/>
+<a href="/entreprise-572/siren-542920087"> GAZECHIM</a>    15, Rue Henri Brisson 34500 Béziers <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-210600045"> COMMUNE D'ANTIBES</a><br/>
+<a href="/acheteur-134/siren-210600045"> COMMUNE D'ANTIBES</a><br/>
 
 
 
@@ -30,11 +30,11 @@ ANTIBES - Département 06 - Alpes-Maritimes
 28/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV90491000 - **Services d'inspection des égouts** <br/>
 CPV90470000 - **Services de curage des égouts** <br/>
+CPV90491000 - **Services d'inspection des égouts** <br/>
 
 ##### Descripteurs :
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-256/siren-342188299"> SUD EST ASSAINISSEMENT DU VAR</a>    682, route de Grenoble 06200 Nice <br/>
+<a href="/entreprise-549/siren-342188299"> SUD EST ASSAINISSEMENT DU VAR</a>    682, route de Grenoble 06200 Nice <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-218500478"> COMMUNE DE CHALLANS</a><br/>
+<a href="/acheteur-136/siren-218500478"> COMMUNE DE CHALLANS</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV71000000 - **Services d'architecture, services de construction, services d'in
 Maîtrise d'oeuvre <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-265/siren-501708879"> vignault x faure</a>    1, rue de la Galissonnière 44000 nantes <br/>
+<a href="/entreprise-567/siren-501708879"> vignault x faure</a>    1, rue de la Galissonnière 44000 nantes <br/>

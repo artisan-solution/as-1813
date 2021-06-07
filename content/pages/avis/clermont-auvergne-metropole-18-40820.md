@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-246300701"> CLERMONT AUVERGNE METROPOLE</a><br/>
+<a href="/acheteur-137/siren-246300701"> CLERMONT AUVERGNE METROPOLE</a><br/>
 
 
 
@@ -38,6 +38,6 @@ CPV33191000 - **Dispositifs de stérilisation, de désinfection et d'hygiène** 
 Nettoyage urbain <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-260/siren-414503391"> Anco Sa</a>    34, Rue Jean Guyomarc'h 56000 Vannes <br/>
-<a href="/entreprise-253/siren-302590898"> Onyx Auvergne Rhone Alpes</a>    216 Avenue Jean Mermoz 63000 Clermont-Ferrand <br/>
-<a href="/entreprise-268/siren-778151944"> Plastic Omnium Su</a>    1 rue du Parc 92593 Levallois-Perret <br/>
+<a href="/entreprise-557/siren-414503391"> Anco Sa</a>    34, Rue Jean Guyomarc'h 56000 Vannes <br/>
+<a href="/entreprise-544/siren-302590898"> Onyx Auvergne Rhone Alpes</a>    216 Avenue Jean Mermoz 63000 Clermont-Ferrand <br/>
+<a href="/entreprise-575/siren-778151944"> Plastic Omnium Su</a>    1 rue du Parc 92593 Levallois-Perret <br/>

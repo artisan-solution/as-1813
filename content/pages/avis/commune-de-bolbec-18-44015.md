@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217601145"> COMMUNE DE BOLBEC</a><br/>
+<a href="/acheteur-136/siren-217601145"> COMMUNE DE BOLBEC</a><br/>
 
 Mme LEPRETRE Viviane, Gestionnaire administrative
 
@@ -37,8 +37,8 @@ CPV45000000 - **Travaux de construction** <br/>
 Gros oeuvre <br/>
 
 ### Attribution du Marché :
-Entreprise LE BATIMENT AVANCE - Lieu-dit "les campeaux " 1756 rue ambroise paré 76360 Barentin <br/>
 Entreprise MAHO BAT - 541 rue du 11 novembre 76650 Petit couronne <br/>
+<a href="/entreprise-567/siren-499633048"> Entreprise LE BATIMENT AVANCE</a>    Lieu-dit "les campeaux " 1756 rue ambroise paré 76360 Barentin <br/>
 Entreprise SOLS DELOBETTE - 9 rue de la pérouse 76600 Le havre <br/>
 Entreprise DUCLOS Marc et Fils - 469 grande rue 76210 Saint nicolas de la taille <br/>
 Entreprise OTIS - 3 place de la pyramide la défense 9 92800 Puteaux <br/>
@@ -49,4 +49,4 @@ Entreprise VIRIA - 17 rue naguet de saint-vulfran 76490 Rives en seine <br/>
 Entreprise PRC PATRIZIO - 16 rue boucicaut 76130 Mont saint aignan <br/>
 Entreprise ANDRIEU - Za rue de rouen 76400 Toussaint <br/>
 Entreprise PICTURAL MGL - 57 avenue de bretagne 76600 Le havre <br/>
-<a href="/entreprise-257/siren-357502871"> Entreprise DUFOUR</a>    118 rue marceau 76600 Le havre <br/>
+<a href="/entreprise-551/siren-357502871"> Entreprise DUFOUR</a>    118 rue marceau 76600 Le havre <br/>

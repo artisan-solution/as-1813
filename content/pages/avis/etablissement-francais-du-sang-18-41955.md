@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-428822852"> ETABLISSEMENT FRANCAIS DU SANG</a><br/>
+<a href="/acheteur-139/siren-428822852"> ETABLISSEMENT FRANCAIS DU SANG</a><br/>
 
 Mme LEGRAND Dr Dominique, Directrice
 
@@ -39,4 +39,4 @@ Contrôle d'accès <br/>
 Electricité (travaux) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-452181274"> ROFICOM</a>    34, rue Charles Martin 69190 ST FONS <br/>
+<a href="/entreprise-563/siren-452181274"> ROFICOM</a>    34, rue Charles Martin 69190 ST FONS <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217500016"> VILLE DE PARIS</a><br/>
+<a href="/acheteur-136/siren-217500016"> VILLE DE PARIS</a><br/>
 
 Mme Verneuil Alexandra
 
@@ -37,4 +37,4 @@ CPV45000000 - **Travaux de construction** <br/>
 Sanitaire <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-480808377"> ABATECH SAS</a>    64 bis rue Dulong 75017 Paris <br/>
+<a href="/entreprise-564/siren-480808377"> ABATECH SAS</a>    64 bis rue Dulong 75017 Paris <br/>

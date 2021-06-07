@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-225600014"> DEPARTEMENT DU MORBIHAN</a><br/>
+<a href="/acheteur-137/siren-225600014"> DEPARTEMENT DU MORBIHAN</a><br/>
 
 Département du Morbihan - DGFiM - DCP - service des marchés
 
@@ -38,4 +38,4 @@ Prestations de services <br/>
 
 ### Attribution du Marché :
 Sauvegarde56 - 33 cours de Chazelles - BP 20347 56103 Lorient cedex <br/>
-<a href="/entreprise-260/siren-415012475"> Amisep</a>    1 rue du Médecin Général Robic - BP 69 56303 Pontivy cedex <br/>
+<a href="/entreprise-557/siren-415012475"> Amisep</a>    1 rue du Médecin Général Robic - BP 69 56303 Pontivy cedex <br/>

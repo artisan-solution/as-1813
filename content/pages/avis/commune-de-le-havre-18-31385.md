@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-217603513"> COMMUNE DE LE HAVRE</a><br/>
+<a href="/acheteur-136/siren-217603513"> COMMUNE DE LE HAVRE</a><br/>
 
 
 
@@ -31,9 +31,9 @@ LE HAVRE - Département 76 - Seine-Maritime
 28/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV30234300 - **Disques compacts (CD)** <br/>
-CPV22113000 - **Livres de bibliothèque** <br/>
 CPV30234400 - **Disques numériques polyvalents (DVD)** <br/>
+CPV22113000 - **Livres de bibliothèque** <br/>
+CPV30234300 - **Disques compacts (CD)** <br/>
 
 ##### Descripteurs :
 Cd, DVD <br/>
@@ -41,5 +41,5 @@ Livres <br/>
 
 ### Attribution du Marché :
 LIBRAIRIE LA GALERNE - 148 rue Victor Hugo 76600 LE HAVRE <br/>
-<a href="/entreprise-263/siren-479432023"> ADAV</a>    41 rue des Envierges 75020 PARIS <br/>
-<a href="/entreprise-256/siren-348646449"> GAM SAS</a>    3 avenue de la MandallazCS 20298 74008 ANNECY <br/>
+<a href="/entreprise-564/siren-479432023"> ADAV</a>    41 rue des Envierges 75020 PARIS <br/>
+<a href="/entreprise-550/siren-348646449"> GAM SAS</a>    3 avenue de la MandallazCS 20298 74008 ANNECY <br/>

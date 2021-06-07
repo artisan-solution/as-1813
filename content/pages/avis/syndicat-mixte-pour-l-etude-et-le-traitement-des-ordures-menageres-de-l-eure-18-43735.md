@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-252703111"> SYNDICAT MIXTE POUR L'ETUDE ET LE TRAITEMENT DES ORDURES MENAGERES DE L'EURE</a><br/>
+<a href="/acheteur-137/siren-252703111"> SYNDICAT MIXTE POUR L'ETUDE ET LE TRAITEMENT DES ORDURES MENAGERES DE L'EURE</a><br/>
 
 
 

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-219740222"> COMMUNE DU TAMPON</a><br/>
+<a href="/acheteur-137/siren-219740222"> COMMUNE DU TAMPON</a><br/>
 
 
 
@@ -38,4 +38,4 @@ Irrigation <br/>
 ### Attribution du Marché :
 Soretra -  97835 Le tampon <br/>
 Gpt sogea reunion / soretra -  97491 Sainte clotilde <br/>
-<a href="/entreprise-254/siren-323078006"> Gtoi</a>     97824 Le port <br/>
+<a href="/entreprise-546/siren-323078006"> Gtoi</a>     97824 Le port <br/>

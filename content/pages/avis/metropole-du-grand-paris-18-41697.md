@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-200054781"> METROPOLE DU GRAND PARIS</a><br/>
+<a href="/acheteur-133/siren-200054781"> METROPOLE DU GRAND PARIS</a><br/>
 
 
 
@@ -30,11 +30,11 @@ PARIS - Département 75 - Paris
 28/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV79111000 - **Services de conseil juridique** <br/>
 CPV79100000 - **Services juridiques** <br/>
+CPV79111000 - **Services de conseil juridique** <br/>
 
 ##### Descripteurs :
 Assistance juridique <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-494572712"> Cabinet Goutal Alibert et Associés</a>    90 avenue Ledru rollin 75011 Paris <br/>
+<a href="/entreprise-566/siren-494572712"> Cabinet Goutal Alibert et Associés</a>    90 avenue Ledru rollin 75011 Paris <br/>

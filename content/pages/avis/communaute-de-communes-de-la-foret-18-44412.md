@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-244500484"> COMMUNAUTE DE COMMUNES DE LA FORET</a><br/>
+<a href="/acheteur-137/siren-244500484"> COMMUNAUTE DE COMMUNES DE LA FORET</a><br/>
 
 Mme DONNAT Marie-Claude, Présidente
 
@@ -37,4 +37,4 @@ CPV55510000 - **Services de cantine** <br/>
 Restauration collective <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-531505105"> CONVIVIO</a>    Direction régionale Centre Val de Loire - Poitou Charentes 37400 Amboise <br/>
+<a href="/entreprise-571/siren-531505105"> CONVIVIO</a>    Direction régionale Centre Val de Loire - Poitou Charentes 37400 Amboise <br/>

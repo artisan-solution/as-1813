@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-256500869"> SYNDICAT MIXTE DE L'AGGLOMERATION TARBAISE POUR L'ELIMINATION DES DECHETS MENAGERS ET ASSIMILES</a><br/>
+<a href="/acheteur-138/siren-256500869"> SYNDICAT MIXTE DE L'AGGLOMERATION TARBAISE POUR L'ELIMINATION DES DECHETS MENAGERS ET ASSIMILES</a><br/>
 
 
 
@@ -37,4 +37,4 @@ CPV09134200 - **Carburant diesel** <br/>
 Carburant, hydrocarbure <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-324958198"> ALVEA SNC</a>    898 Route de la Teinture 47200 Montpouillan <br/>
+<a href="/entreprise-546/siren-324958198"> ALVEA SNC</a>    898 Route de la Teinture 47200 Montpouillan <br/>

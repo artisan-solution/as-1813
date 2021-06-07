@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-254103054"> SYND MIXTE DE COLLECTE ET DE TRAITEMENT DES DECHETS DU BLAISOIS VAL-ECO</a><br/>
+<a href="/acheteur-138/siren-254103054"> SYND MIXTE DE COLLECTE ET DE TRAITEMENT DES DECHETS DU BLAISOIS VAL-ECO</a><br/>
 
 
 
@@ -36,4 +36,4 @@ Blois - Département 41 - Loir-et-Cher
 Collecte sélective <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-254/siren-322942525"> ASTECH</a>      Sausheim <br/>
+<a href="/entreprise-546/siren-322942525"> ASTECH</a>      Sausheim <br/>

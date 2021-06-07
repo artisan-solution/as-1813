@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-255613374"> SYNDICAT MIXTE DU SUD EST DU MORBIHAN</a><br/>
+<a href="/acheteur-138/siren-255613374"> SYNDICAT MIXTE DU SUD EST DU MORBIHAN</a><br/>
 
 
 
@@ -37,5 +37,5 @@ Assainissement <br/>
 Ordures ménagères (prestations) <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-263/siren-480984350"> MOBIPUR SAS</a>      SECLIN <br/>
+<a href="/entreprise-564/siren-480984350"> MOBIPUR SAS</a>      SECLIN <br/>
 OVIVE SAS -   SECLIN <br/>

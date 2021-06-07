@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-720500206"> ETS PUB FONCIER DE NORMANDIE</a><br/>
+<a href="/acheteur-139/siren-720500206"> ETS PUB FONCIER DE NORMANDIE</a><br/>
 
 
 
@@ -37,6 +37,6 @@ Etude <br/>
 Prestations de services <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-682008222"> GINGER BURGEAP</a>    Rue du Pré de la Roquette 76800 Saint Etienne du Rouvray <br/>
+<a href="/entreprise-573/siren-682008222"> GINGER BURGEAP</a>    Rue du Pré de la Roquette 76800 Saint Etienne du Rouvray <br/>
 ARA SARL D'ARCHITECTURE - 19 Avenue Gallieni 76130 Mont Saint Aignan <br/>
-<a href="/entreprise-268/siren-781143987"> Cabinet REBER</a>    15 Rue Alfred Kastler 76130 Mont saint aignan <br/>
+<a href="/entreprise-575/siren-781143987"> Cabinet REBER</a>    15 Rue Alfred Kastler 76130 Mont saint aignan <br/>

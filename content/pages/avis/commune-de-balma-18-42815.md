@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-32/siren-213100449"> COMMUNE DE BALMA</a><br/>
+<a href="/acheteur-134/siren-213100449"> COMMUNE DE BALMA</a><br/>
 
 le maire
 
@@ -36,9 +36,9 @@ BALMA - Département 31 - Haute-Garonne
 Tous corps d'état <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-264/siren-488940263"> SOREBA CHARPENTES</a>    820 Chemin les petites 31620 Castelnau-d'Estrétefonds <br/>
-<a href="/entreprise-255/siren-341073682"> ENTREPRISE DE SERRURERIE TOULOUSAINE</a>    3 avenue du bois vert 31120 Portet-sur-Garonne <br/>
-<a href="/entreprise-266/siren-513259747"> Dip Ascenseurs</a>    15 allée de Bellefontaine 31100 Toulouse <br/>
-<a href="/entreprise-269/siren-793959487"> ETANCHEITE GENERALE DU BATIMENT</a>    38 Rue des Graves 31780 Castelginest <br/>
-<a href="/entreprise-265/siren-511670150"> GEO ENVIRONNEMENT</a>    32, route d'Espagne 31100 Toulouse <br/>
-<a href="/entreprise-258/siren-393933882"> STARBAT MIDI PYRENEES</a>    1 TER RUE DE L'INDUSTRIE - ZI DE VIC 31320 Castanet-Tolosan <br/>
+<a href="/entreprise-569/siren-511670150"> GEO ENVIRONNEMENT</a>    32, route d'Espagne 31100 Toulouse <br/>
+<a href="/entreprise-565/siren-488940263"> SOREBA CHARPENTES</a>    820 Chemin les petites 31620 Castelnau-d'Estrétefonds <br/>
+<a href="/entreprise-549/siren-341073682"> ENTREPRISE DE SERRURERIE TOULOUSAINE</a>    3 avenue du bois vert 31120 Portet-sur-Garonne <br/>
+<a href="/entreprise-569/siren-513259747"> Dip Ascenseurs</a>    15 allée de Bellefontaine 31100 Toulouse <br/>
+<a href="/entreprise-576/siren-793959487"> ETANCHEITE GENERALE DU BATIMENT</a>    38 Rue des Graves 31780 Castelginest <br/>
+<a href="/entreprise-554/siren-393933882"> STARBAT MIDI PYRENEES</a>    1 TER RUE DE L'INDUSTRIE - ZI DE VIC 31320 Castanet-Tolosan <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-265906735"> CENTRE HOSPITALIER DE VALENCIENNES</a><br/>
+<a href="/acheteur-138/siren-265906735"> CENTRE HOSPITALIER DE VALENCIENNES</a><br/>
 
 Monsieur le Directeur
 
@@ -38,4 +38,4 @@ Electroménager <br/>
 Maintenance <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-260/siren-415126895"> ATOM SAS</a>    62, rue Louis Petit 59220 DENAIN <br/>
+<a href="/entreprise-557/siren-415126895"> ATOM SAS</a>    62, rue Louis Petit 59220 DENAIN <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-34/siren-780503918"> OFFICE PUBLIC DE L 'HABITAT - OPAC DE L'OISE</a><br/>
+<a href="/acheteur-140/siren-780503918"> OFFICE PUBLIC DE L 'HABITAT - OPAC DE L'OISE</a><br/>
 
 
 
@@ -31,9 +31,9 @@ BEAUVAIS - Département 60 - Oise
 31/03/2018
 
 ##### Codes CPV concerné(s) :
-CPV45112710 - **Travaux d'aménagement paysager d'espaces verts** <br/>
-CPV45233226 - **Travaux de construction de routes d'accès** <br/>
 CPV45211340 - **Travaux de construction d'immeubles collectifs** <br/>
+CPV45233226 - **Travaux de construction de routes d'accès** <br/>
+CPV45112710 - **Travaux d'aménagement paysager d'espaces verts** <br/>
 
 ##### Descripteurs :
 Espaces verts <br/>
@@ -41,6 +41,6 @@ Réseaux divers <br/>
 Tous corps d'état <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-267/siren-582150868"> Medinger</a>    Zac Les Vallées 5 rue d'Amsterdam 60110 Amblainville <br/>
-<a href="/entreprise-264/siren-487734394"> Demathieu Bard Construction Nord</a>    28 rue Jean Baptiste Godin 60000 Beauvais <br/>
+<a href="/entreprise-573/siren-582150868"> Medinger</a>    Zac Les Vallées 5 rue d'Amsterdam 60110 Amblainville <br/>
+<a href="/entreprise-565/siren-487734394"> Demathieu Bard Construction Nord</a>    28 rue Jean Baptiste Godin 60000 Beauvais <br/>
 Snt Sas - 7 Chemin de la Chapelle Saint Antoine 95300 Ennery <br/>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 ### Acheteur Public : 
-<a href="/acheteur-33/siren-214900078"> COMMUNE D'ANGERS</a><br/>
+<a href="/acheteur-135/siren-214900078"> COMMUNE D'ANGERS</a><br/>
 
 
 
@@ -38,4 +38,4 @@ Prestations de services <br/>
 Délégation de service public <br/>
 
 ### Attribution du Marché :
-<a href="/entreprise-270/siren-808022321"> Association UCPA Sport Loisirs</a>    17 rue Remy Dumoncel 75014 Paris <br/>
+<a href="/entreprise-577/siren-808022321"> Association UCPA Sport Loisirs</a>    17 rue Remy Dumoncel 75014 Paris <br/>
